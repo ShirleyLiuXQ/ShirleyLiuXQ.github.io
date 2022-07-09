@@ -9,7 +9,7 @@ Email: xl394 [at] cam.ac.uk\
 Office: BN3-03
 
 
-## About me: [add]
+## About me:
 My first name is pronounced as "Sh-ih-ow Chi" (meaning jade born at dawn in Chinese), but  feel free to call me Shirley.
 
 I am a third-year [PhD student at Cambridge](http://www.eng.cam.ac.uk/profiles/xl394) under [Professor Ramji Venkataramanan](https://rv285.github.io/), studying **information theory** and **statistical learning**.  Specifically, my doctoral research focuses on applying coding theory for **efficient data storage and inference**, in response to the pressing need for these in the era of big data.
