@@ -2,7 +2,7 @@
 
 My research focus lies in **information theory**, **coding theory**, and **statistical learning**. 
 Specifically, I am interested in applying tools from information theory and coding theory to (high-dimensional) inference problems such as  compressed sensing, low-rank matrix estimation, and communication across multiple access channels. 
-An emphasis of my research has been to develop fast  algorithms for these inference problems, and provide mathematical guarantees on the performance of the algorithms. 
+An emphasis of my research has been to develop fast  algorithms for these inference problems, and provide mathematical guarantees on their performance (in terms of memory and time complexties). 
 
 I've been particularly interested in studying **message passing algorithms**, which are a class of algorithms designed for statistical inference on models based on sparse or dense factor graphs. In such models, the statistical relationships between variables are represented by a factor graph. The message passing algorithm iteratively updates estimates of the variables by passing messages along the graph edges.
 
