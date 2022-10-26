@@ -3,7 +3,7 @@ width="250" height=auto ALIGN="right">
 ## About me:
 My first name is pronounced as "Sh-ih-ow Chi" (meaning jade born at dawn in Chinese), but  feel free to call me Shirley.
 
-I am a third-year [PhD student](http://www.eng.cam.ac.uk/profiles/xl394)  at the University of Cambridge under [Professor Ramji Venkataramanan](https://rv285.github.io/), studying **information theory** and **statistical learning**.  Specifically, my doctoral research focuses on applying coding theory for **efficient data storage and inference**, in response to the pressing need for these in the era of big data.
+I am a 4th-year [PhD student](http://www.eng.cam.ac.uk/profiles/xl394)  at the University of Cambridge under [Professor Ramji Venkataramanan](https://rv285.github.io/), studying **information theory** and **statistical learning**.  Specifically, my doctoral research focuses on applying coding theory for **efficient data storage and inference**, in response to the pressing need for these in the era of big data.
 
 
 I'm part of the [Signal Processing and Communications Group](https://sigproc.eng.cam.ac.uk/) in the [Information Engineering Division](http://www.eng.cam.ac.uk/research/academic-divisions/information-engineering) of the Engineering Department. 
