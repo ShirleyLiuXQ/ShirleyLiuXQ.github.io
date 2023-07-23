@@ -1,5 +1,5 @@
 <img src="portrait.jpg" alt="portrait" 
-width="250" height=auto ALIGN="right" style="float: right;">
+width="250" height=auto ALIGN="right" style="float: right; margin:0 10px 10px 0">
 ## About me:
 My first name is pronounced as "Sh-ih-ow Chi" (meaning jade born at dawn in Chinese), but  feel free to call me Shirley!
 
