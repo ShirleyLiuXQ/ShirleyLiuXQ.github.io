@@ -32,6 +32,6 @@ The figure on the right is excerpted from the paper, which plots the runtime of 
 ## Work in progress:
 Currently I'm working on communications over Gaussian Multiple Access Channels (GMAC) with random user activity, where users are active in a sporadic and uncoordinated manner. This is particularly pertinent to Internet of Things (IoT) and machine-type communications. We propose an efficient coding scheme based on random linear models with Approximate Message Passing (AMP) decoding, and derive theoretical achievability and converse bounds to compare with our devised practical scheme.
 
-Here's a poster about this work that I presented at the [IEEE European School of Information Theory 2023 (ESIT)](https://www.bristol.ac.uk/maths/events/2023/esit-2023.html).
+Here's a [poster](ESIT_GMAC_poster_final.pdf) about this work that I presented at the [IEEE European School of Information Theory 2023 (ESIT)](https://www.bristol.ac.uk/maths/events/2023/esit-2023.html).
 
 
