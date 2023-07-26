@@ -9,6 +9,7 @@ Over the past six years, I have participated in numerous teaching and outreach a
 <img src="micro_distance_photo.jpeg"  
 width="250" height=auto ALIGN="right">
 - Teaching assistant (supervisor) for third-year undergraduate courses [3F7 Information Theory & Coding](http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3f7-information-theory-and-coding-2021-22) and [3F4 Data Transmission](http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3f4-data-transmission-2019-20). 3F7 focuses on Shannon's information theory and data compression, and channel coding (incl. sparse graph codes). 3F4 covers digital communication including modulation and demodulation, performance analysis (e.g., probability of detection error and bandwidth efficiency), and network algorithms.
+- Co-supervise master projects on statistical learning and communications
 - Demonstrator for 3F4 Data Transmission laboratory
 - Teaching assistant for Electronic & Information Engineering Track at Cambridge AI+ Programme
 - Project leader at the 2019 Micro Distance International Youth Forum
