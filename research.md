@@ -33,12 +33,12 @@ The article above considers communications over **Gaussian Multiple Access Chann
 
 G, Arpino, X. Liu and R. Venkataramanan (2023) Changepoints detection in high-dimensional linear regression 
 
-The article above studies an important branch of sequential analysis: changepoint detection, where the goal is to detect changes in the state
+The article above studies an important branch of **sequential analysis**: **changepoint detection**, where the goal is to detect changes in the state
 of a phenomenon (e.g. detection of deterioration in quality of the output from a continuous production process). We propose an efficient Bayesian algorithm for this task and demonstrate its versatility in integrating signal priors and number of changepoints over existing state-of-the-art methods. 
 
 X. Liu and R. Venkataramanan (2023) On generalising Wormald's differential equation theorem
 
-The above is an exciting work where we generalise the celebrated Wormald's differential equation theorem for characterising discrete random processes with higher rates of change. The extended method can be used to analyse a variety of randomised combinatorial algorithms,
+The above is an exciting work where we generalise the celebrated **Wormald's differential equation theorem** for characterising **discrete random processes** with higher rates of change. The extended method can be used to analyse a variety of randomised combinatorial algorithms,
 including the widely used message passing algorithms. We demonstrate the utility of the theorem through examples.
 
 
