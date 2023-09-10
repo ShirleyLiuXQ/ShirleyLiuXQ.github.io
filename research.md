@@ -17,9 +17,9 @@ I review papers for International Symposium on Information Theory (ISIT) and Int
 - Changepoints detection
 
 ## Publications:
-X. Liu and R. Venkataramanan, "[Sketching Sparse Low-Rank Matrices With Near-Optimal Sample- and Time-Complexity Using Message Passing](https://ieeexplore.ieee.org/document/10120641)," in [*IEEE Transactions on Information Theory*], vol. 69, no. 9, pp. 6071-6097, Sept. 2023, doi: 10.1109/TIT.2023.3273181.
+X. Liu and R. Venkataramanan, "[Sketching Sparse Low-Rank Matrices With Near-Optimal Sample- and Time-Complexity Using Message Passing](https://ieeexplore.ieee.org/document/10120641)," in *IEEE Transactions on Information Theory*, vol. 69, no. 9, pp. 6071-6097, Sept. 2023, doi: 10.1109/TIT.2023.3273181.
 
-X. Liu and R. Venkataramanan, "[Sketching sparse low-rank matrices with near-optimal sample- and time-complexity](https://ieeexplore.ieee.org/document/9834693)," 2022 IEEE International Symposium on Information Theory (ISIT), Espoo, Finland, 2022, pp. 3138-3143, doi: 10.1109/ISIT50566.2022.9834693. (<a href="/ISIT_talk_Shirley_Liu_website_version.pdf">presentation slides</a>)
+X. Liu and R. Venkataramanan, "[Sketching sparse low-rank matrices with near-optimal sample- and time-complexity](https://ieeexplore.ieee.org/document/9834693)," *2022 IEEE International Symposium on Information Theory (ISIT)*, Espoo, Finland, 2022, pp. 3138-3143, doi: 10.1109/ISIT50566.2022.9834693. (<a href="/ISIT_talk_Shirley_Liu_website_version.pdf">presentation slides</a>)
 
 The two papers above consider nxn matrices with singular vectors each containing at most k ![\ll](https://latex.codecogs.com/svg.latex?\ll) n non-zero entries.  In this paper, we proposed an algorithm based on coding theory and message passing that  can recover a sparse, low-rank matrix with O(k<sup>2</sup>) sample complexity and O(k<sup>3</sup>) runtime instead of the O(polylog(n)) and O(poly(n)) required by most existing state-of-the-art algorithms.  
 
