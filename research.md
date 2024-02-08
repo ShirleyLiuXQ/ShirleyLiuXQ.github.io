@@ -17,29 +17,32 @@ I review papers for International Symposium on Information Theory (ISIT) and Int
 - Information-theoretic proofs of achievability and converse
 
 ## Publications:
-X. Liu and R. Venkataramanan, "[Sketching Sparse Low-Rank Matrices With Near-Optimal Sample- and Time-Complexity Using Message Passing](https://ieeexplore.ieee.org/document/10120641)," in *IEEE Transactions on Information Theory*, vol. 69, no. 9, pp. 6071-6097, Sept. 2023, doi: 10.1109/TIT.2023.3273181.
+**X. Liu** and R. Venkataramanan, "[Sketching Sparse Low-Rank Matrices With Near-Optimal Sample- and Time-Complexity Using Message Passing](https://ieeexplore.ieee.org/document/10120641)," in *IEEE Transactions on Information Theory*, vol. 69, no. 9, pp. 6071-6097, Sept. 2023, doi: 10.1109/TIT.2023.3273181.
 
-X. Liu and R. Venkataramanan, "[Sketching sparse low-rank matrices with near-optimal sample- and time-complexity](https://ieeexplore.ieee.org/document/9834693)," *2022 IEEE International Symposium on Information Theory (ISIT)*, Espoo, Finland, 2022, pp. 3138-3143, doi: 10.1109/ISIT50566.2022.9834693. (<a href="/ISIT_talk_Shirley_Liu_website_version.pdf">presentation slides</a>)
+**X. Liu** and R. Venkataramanan, "[Sketching sparse low-rank matrices with near-optimal sample- and time-complexity](https://ieeexplore.ieee.org/document/9834693)," *2022 IEEE International Symposium on Information Theory (ISIT)*, Espoo, Finland, 2022, pp. 3138-3143, doi: 10.1109/ISIT50566.2022.9834693. (<a href="/ISIT_talk_Shirley_Liu_website_version.pdf">presentation slides</a>)
 
 The two papers above consider nxn matrices with singular vectors each containing at most k ![\ll](https://latex.codecogs.com/svg.latex?\ll) n non-zero entries.  In this paper, we proposed an algorithm based on coding theory and message passing that  can recover a sparse, low-rank matrix with O(k<sup>2</sup>) sample complexity and O(k<sup>3</sup>) runtime instead of the O(polylog(n)) and O(poly(n)) required by most existing state-of-the-art algorithms.  
 
 
-## In preparation: 
-The progress curve of my PhD has been highly super-linear, with a substantial amount of my recent work in review or in preparation for publications.
+The progress curve of my PhD has been highly super-linear, with a substantial amount of my recent work in review/ preparation for publications.
 
-X. Liu, P. Cobo and R. Venkataramanan (2024) Many-user multiple access with random user activity ([poster](ESIT_GMAC_poster_final.pdf) at [IEEE European School of Information Theory 2023 (ESIT)](https://www.bristol.ac.uk/maths/events/2023/esit-2023.html)), in review.
+## In review: 
+
+**X. Liu**, P. Cobo and R. Venkataramanan (2024) Many-user multiple access with random user activity ([poster](ESIT_GMAC_poster_final.pdf) at [IEEE European School of Information Theory 2023 (ESIT)](https://www.bristol.ac.uk/maths/events/2023/esit-2023.html)), in review.
 
 The article above considers communications over **Gaussian Multiple Access Channels (GMAC)** with **random user activity**, where users are active in a sporadic and uncoordinated manner. This is particularly pertinent to Internet of Things (IoT) and machine-type communications. We propose an efficient coding scheme based on random linear models with Approximate Message Passing (AMP) decoding, and derive theoretical achievability and converse bounds to compare with our devised practical scheme. 
 
-X. Liu, K. Hsieh and R. Venkataramanan (2024) Coded many-user multiple access via Approximate Messsage Passing, in review.
+**X. Liu**, K. Hsieh and R. Venkataramanan (2024) Coded many-user multiple access via Approximate Messsage Passing, in review.
 
-We study a novel CDMA-type coding method for communications over GMAC, coupled with an efficient AMP decoder. Simulation results demonstrate significant advantages of the proposed scheme, particularly evident at finite blocklengths within the lower signal-to-noise regime.
+We study a novel CDMA-type coding method for communications over GMAC, coupled with an efficient AMP decoder. Simulation results demonstrate significant advantages of the proposed scheme at finite blocklengths, particularly within the lower signal-to-noise regime.
 
-G, Arpino, X. Liu and R. Venkataramanan (2024) Changepoints detection in high-dimensional linear regression, in review.
+G, Arpino, **X. Liu** and R. Venkataramanan (2024) Changepoints detection in high-dimensional linear regression, in review.
 
 The article above studies an important branch of **sequential analysis**: **changepoint detection**, where the goal is to detect changes in the state of a phenomenon (e.g. detection of deterioration in quality of the output from a continuous production process). We propose an efficient Bayesian algorithm for this task and demonstrate its versatility in integrating signal priors and number of changepoints over existing state-of-the-art methods. 
 
-X. Liu and R. Venkataramanan (2024) On generalising Wormald's differential equation theorem, in preparation.
+In preparation:
+ 
+**X. Liu** and R. Venkataramanan (2024) On generalising Wormald's differential equation theorem, in preparation.
 
 The above is an exciting work where we generalise the celebrated **Wormald's differential equation theorem** for characterising **discrete random processes** with higher rates of change. The extended method can be used to analyse a variety of randomised combinatorial algorithms,
 including the widely used message passing algorithms. We demonstrate the utility of the theorem through examples.
