@@ -24,7 +24,7 @@ I review papers for International Symposium on Information Theory (ISIT) and Int
 The two papers above consider nxn matrices with singular vectors each containing at most k ![\ll](https://latex.codecogs.com/svg.latex?\ll) n non-zero entries.  In this paper, we proposed an algorithm based on coding theory and message passing that  can recover a sparse, low-rank matrix with O(k<sup>2</sup>) sample complexity and O(k<sup>3</sup>) runtime instead of the O(polylog(n)) and O(poly(n)) required by most existing state-of-the-art algorithms.  
 
 
-*The progress curve of my PhD has been highly super-linear, with a substantial amount of my recent work in review/ preparation for publications.*
+*The progress curve of my PhD has been highly super-linear, with a substantial amount of my recent work in review/ preparation for publications:*
 
 ## In review: 
 
