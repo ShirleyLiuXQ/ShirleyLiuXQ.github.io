@@ -1,6 +1,6 @@
 <h1 style="font-size:30px">Teaching</h1>
 
-From primary school to university, I've been fortunate to have met and known many great teachers and mentors. They are **authentic, generous** and **empathetic**, with admirable work ethic and genuine love for their work.  These people have profoundly influenced me and sparked my passion for teaching and outreach.
+From primary school to university, I've been fortunate to have met and known many great teachers and mentors. They are **authentic, generous** and **empathetic**, with admirable work ethic and genuine love for their work.  These people have profoundly influenced me and ignited my passion for teaching and outreach.
 
 Over the past six years, I have participated in numerous teaching and outreach activities. Through these, I enjoyed sharing my enthusiasm for Information Theory (or electrical and computer engineering at large) with younger students; by endeavouring to unpack complex topics in an easy-going yet rigorous way, I also developed new insights into the subject matter. At the end of year academic year, I always had several students approach me, either in-person or via email, expressing their appreciation and considering me as their best supervisor of the year. I hope to make helping and inspiring more undergraduate and secondary students  a recurring theme of my career.
 

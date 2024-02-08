@@ -25,18 +25,21 @@ The two papers above consider nxn matrices with singular vectors each containing
 
 
 ## In preparation: 
-The progress curve of my PhD has been highly super-linear, with a substantial amount of my recent work still in the write-up stage. I've been concurrently working on the following preprints which hopefully will appear on arXiv around the end of 2023/ beginning of 2024.
+The progress curve of my PhD has been highly super-linear, with a substantial amount of my recent work in review or in preparation for publications.
 
-X. Liu, P. Cobo, K. Hsieh and R. Venkataramanan (2023) Massive multiple access with random user activity and coding ([poster](ESIT_GMAC_poster_final.pdf) at [IEEE European School of Information Theory 2023 (ESIT)](https://www.bristol.ac.uk/maths/events/2023/esit-2023.html))
+X. Liu, P. Cobo and R. Venkataramanan (2024) Many-user multiple access with random user activity ([poster](ESIT_GMAC_poster_final.pdf) at [IEEE European School of Information Theory 2023 (ESIT)](https://www.bristol.ac.uk/maths/events/2023/esit-2023.html)), in review.
 
 The article above considers communications over **Gaussian Multiple Access Channels (GMAC)** with **random user activity**, where users are active in a sporadic and uncoordinated manner. This is particularly pertinent to Internet of Things (IoT) and machine-type communications. We propose an efficient coding scheme based on random linear models with Approximate Message Passing (AMP) decoding, and derive theoretical achievability and converse bounds to compare with our devised practical scheme. 
 
-G, Arpino, X. Liu and R. Venkataramanan (2023) Changepoints detection in high-dimensional linear regression 
+X. Liu, K. Hsieh and R. Venkataramanan (2024) Coded many-user multiple access via Approximate Messsage Passing, in review.
 
-The article above studies an important branch of **sequential analysis**: **changepoint detection**, where the goal is to detect changes in the state
-of a phenomenon (e.g. detection of deterioration in quality of the output from a continuous production process). We propose an efficient Bayesian algorithm for this task and demonstrate its versatility in integrating signal priors and number of changepoints over existing state-of-the-art methods. 
+We study a novel CDMA-type coding method for communications over GMAC, coupled with an efficient AMP decoder. Simulation results demonstrate significant advantages of the proposed scheme, particularly evident at finite blocklengths within the lower signal-to-noise regime.
 
-X. Liu and R. Venkataramanan (2023) On generalising Wormald's differential equation theorem
+G, Arpino, X. Liu and R. Venkataramanan (2024) Changepoints detection in high-dimensional linear regression, in review.
+
+The article above studies an important branch of **sequential analysis**: **changepoint detection**, where the goal is to detect changes in the state of a phenomenon (e.g. detection of deterioration in quality of the output from a continuous production process). We propose an efficient Bayesian algorithm for this task and demonstrate its versatility in integrating signal priors and number of changepoints over existing state-of-the-art methods. 
+
+X. Liu and R. Venkataramanan (2024) On generalising Wormald's differential equation theorem, in preparation.
 
 The above is an exciting work where we generalise the celebrated **Wormald's differential equation theorem** for characterising **discrete random processes** with higher rates of change. The extended method can be used to analyse a variety of randomised combinatorial algorithms,
 including the widely used message passing algorithms. We demonstrate the utility of the theorem through examples.
