@@ -40,7 +40,7 @@ G, Arpino, **X. Liu** and R. Venkataramanan (2024) Changepoints detection in hig
 
 The article above studies an important branch of **sequential analysis**: **changepoint detection**, where the goal is to detect changes in the state of a phenomenon (e.g. detection of deterioration in quality of the output from a continuous production process). We propose an efficient Bayesian algorithm for this task and demonstrate its versatility in integrating signal priors and number of changepoints over existing state-of-the-art methods. 
 
-In preparation:
+## In preparation:
  
 **X. Liu** and R. Venkataramanan (2024) On generalising Wormald's differential equation theorem, in preparation.
 
