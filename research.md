@@ -28,21 +28,21 @@ The two papers above consider nxn matrices with singular vectors each containing
 
 ## In review: 
 
-**X. Liu**, P. Cobo and R. Venkataramanan (2024) Many-user multiple access with random user activity ([poster](ESIT_GMAC_poster_final.pdf) at [IEEE European School of Information Theory 2023 (ESIT)](https://www.bristol.ac.uk/maths/events/2023/esit-2023.html)), in review, submitted version available on request.
+**X. Liu**, P. Cobo and R. Venkataramanan (2024) "Many-user multiple access with random user activity" ([poster](ESIT_GMAC_poster_final.pdf) at [IEEE European School of Information Theory 2023 (ESIT)](https://www.bristol.ac.uk/maths/events/2023/esit-2023.html)), in review, submitted version available on request.
 
 The article above considers communications over **Gaussian Multiple Access Channels (GMAC)** with **random user activity**, where users are active in a sporadic and uncoordinated manner. This is particularly pertinent to Internet of Things (IoT) and machine-type communications. We propose an efficient coding scheme based on random linear models with Approximate Message Passing (AMP) decoding, and derive theoretical achievability and converse bounds to compare with our devised practical scheme. 
 
-**X. Liu**, K. Hsieh and R. Venkataramanan (2024) Coded many-user multiple access via Approximate Messsage Passing, in review, submitted version available on request.
+**X. Liu**, K. Hsieh and R. Venkataramanan (2024) "[Coded many-user multiple access via Approximate Messsage Passing](https://arxiv.org/abs/2402.05625)", in review.
 
 We study a novel CDMA-type coding method for communications over GMAC, coupled with an efficient AMP decoder. Simulation results demonstrate significant advantages of the proposed scheme at finite blocklengths, particularly within the lower signal-to-noise regime.
 
-G. Arpino, **X. Liu** and R. Venkataramanan (2024) Changepoints detection in high-dimensional linear regression, in review, submitted version available on request.
+G. Arpino, **X. Liu** and R. Venkataramanan (2024) "Changepoints detection in high-dimensional linear regression", in review, submitted version available on request.
 
 The article above studies an important branch of **sequential analysis**: **changepoint detection**, where the goal is to detect changes in the state of a phenomenon (e.g. detection of deterioration in quality of the output from a continuous production process). We propose an efficient Bayesian algorithm for this task and demonstrate its versatility in integrating signal priors and number of changepoints over existing state-of-the-art methods. 
 
 ## In preparation:
  
-**X. Liu** and R. Venkataramanan (2024) On generalising Wormald's differential equation theorem, in preparation.
+**X. Liu** and R. Venkataramanan (2024) "On generalising Wormald's differential equation theorem", in preparation.
 
 The above is an exciting work where we generalise the celebrated **Wormald's differential equation theorem** for characterising **discrete random processes** with higher rates of change. The extended method can be used to analyse a variety of randomised combinatorial algorithms,
 including the widely used message passing algorithms. We demonstrate the utility of the theorem through examples.
