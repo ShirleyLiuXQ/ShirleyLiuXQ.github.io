@@ -4,7 +4,7 @@ My research focus lies in [**information theory**](https://en.wikipedia.org/wiki
 Specifically, I am interested in applying tools from information theory and coding theory to (high-dimensional) statistical inference problems such as  compressed sensing, low-rank matrix estimation, changepoints detection and communications in large user networks. 
 An emphasis of my research has been to develop fast  algorithms for these inference problems, and provide mathematical guarantees on their performance (in terms of certain error metrics, or memory and time complexties). 
 
-I've been particularly interested in studying **message passing algorithms** for the inference problems mentioned above. There, we represent the statistical relationships between variables in the problem by a sparse or dense factor graph; the algorithm then iteratively updates estimates of the variables by passing messages along the graph edges. (Chapter 2 of [*Modern Coding Theory*](https://www.mathematik.uni-muenchen.de/~kpanagio/ModernCodingTheory/mct-new.pdf) contains a nice  introduction to   message passing.)
+I've been particularly interested in studying **message passing algorithms** for the inference problems mentioned above. There, we represent the statistical relationships between variables in the problem by a sparse or dense factor graph; the algorithm then iteratively updates estimates of the variables by passing messages along the graph edges. (Chapter 2 of [*Modern Coding Theory*](https://www.cambridge.org/core/books/modern-coding-theory/A08C3B7B15351BF9C956CDFE5BE4846B) contains an easygoing  introduction to   message passing.)
 
 I review papers for International Symposium on Information Theory (ISIT) and International Symposium on Topics in Coding (ISTC).
 
