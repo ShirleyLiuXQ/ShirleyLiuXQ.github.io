@@ -1,4 +1,4 @@
-<img src="barcelona_photo.jpeg" alt="barcelona_photo" 
+<img src="barcelona_photo1.jpeg" alt="barcelona_photo" 
 width="400" height=auto ALIGN="right" style="float: right; margin:20px 20px 20px 20px">
 
 ## Academic:
