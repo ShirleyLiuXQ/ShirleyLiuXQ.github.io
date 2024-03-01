@@ -2,7 +2,7 @@
 
 From primary school to university, I've been fortunate to have met and known many great teachers and mentors. They are **authentic, generous** and **empathetic**, with admirable work ethic and genuine love for their work.  These people have profoundly influenced me and ignited my passion for teaching and outreach.
 
-Over the past six years, I have participated in numerous teaching and outreach activities. I enjoy sharing my passion for Information Theory, probability and statistics with younger students. I enjoy simplifying complex topics in an accessible yet rigorous manner to help my students build intuition. Through this process, I often discover new insights. At the end of each academic year, I always had several students approach me, either in-person or via email, expressing their appreciation and considering me as their best supervisor of the year. I hope to make helping and inspiring younger students  a recurring theme of my career.
+Over the past six years, I have participated in numerous teaching and outreach activities. I enjoy sharing my passion for Information Theory, probability and statistics with younger students. I enjoy simplifying complex topics in an accessible yet rigorous manner to help my students build intuition. Through this process, I often discover new insights. I hope to make helping and inspiring younger students  a recurring theme of my career.
 
 
 ## Selected teaching & outreach experience:
