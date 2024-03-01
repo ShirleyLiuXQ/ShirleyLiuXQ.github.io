@@ -7,10 +7,10 @@ with [Professor Ramji Venkataramanan](https://rv285.github.io/).  I'm part of th
 
 My PhD focuses on modern data science using **information theory** and **statistical learning**. My research is driven by a desire to answer questions like: given a complex statistical estimation problem, what is the  minimal amount of data we need to estimate the underlying signal? Can we design efficient, mathematically-principled algorithms attempting to approach the minimum? 
 
-Prior to my PhD, I obtained my BA and MEng with distinction in Information and Computer Engineering from Cambridge in 2019. 
+Prior to my PhD, I obtained my BA and MEng with distinction in **Information and Computer Engineering** from Cambridge in 2019. 
 
 I was an intern with 
-Microsoft Research Cambridge in spring 2023, working on error correction codes for [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/) which is a new type of long-term data storage technology using quartz glass. Using lasers, data is encoded onto small glass discs through the creation of nanoscale gratings. These gratings serve as representations of binary data and can be read through the utilization of light and machine learning algorithms.
+**Microsoft Research Cambridge** in spring 2023, working on error correction codes for [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/) which is a new type of long-term data storage technology using quartz glass. Using lasers, data is encoded onto small glass discs through the creation of nanoscale gratings. These gratings serve as representations of binary data and can be read through the utilization of light and machine learning algorithms.
 
 I am on the job market this year. 
 
