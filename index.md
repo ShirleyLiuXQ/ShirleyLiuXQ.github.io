@@ -1,9 +1,9 @@
-<img src="portrait.jpg" alt="portrait" 
-width="250" height=auto ALIGN="right" style="float: right; margin:0 20px 20px 0">
+<img src="barcelona_photo.jpg" alt="barcelona_photo" 
+width="250" height=auto ALIGN="right" style="float: right; margin:20px 20px 20px 20px">
 ## About me:
 My first name is pronounced as "Sh-ih-ow Chi" (meaning jade born at dawn in Chinese), but  feel free to call me Shirley!
 
-I am a 4th-year [PhD student](http://www.eng.cam.ac.uk/profiles/xl394)  at the University of Cambridge 
+I am a final-year [PhD student](http://www.eng.cam.ac.uk/profiles/xl394)  at the University of Cambridge 
 with [Professor Ramji Venkataramanan](https://rv285.github.io/), studying **information theory** and **statistical learning**.  Specifically, my doctoral research focuses on developing efficient methods for **storaging, communicating and representing information**. In spring 2023, I interned at 
 Microsoft Research Cambridge, working on error correction codes for [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/), which is one of the most ambitious and longest-running projects at Microsoft, aiming to revolutionise today's cloud data storage systems.
 
