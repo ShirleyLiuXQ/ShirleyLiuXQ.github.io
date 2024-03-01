@@ -1,4 +1,4 @@
-<img src="barcelona_photo.jpg" alt="barcelona_photo" 
+<img src="barcelona_photo.jpeg" alt="barcelona_photo" 
 width="250" height=auto ALIGN="right" style="float: right; margin:20px 20px 20px 20px">
 ## About me:
 My first name is pronounced as "Sh-ih-ow Chi" (meaning jade born at dawn in Chinese), but  feel free to call me Shirley!
