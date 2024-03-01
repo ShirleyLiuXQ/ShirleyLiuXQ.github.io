@@ -1,5 +1,5 @@
 <img src="barcelona_photo1.jpeg" alt="barcelona_photo" 
-width="400" height=auto ALIGN="right" style="float: right; margin:20px 20px 20px 20px">
+width="300" height=auto ALIGN="right" style="float: right; margin:20px 20px 20px 20px">
 
 ## Academic:
 I am a final-year [PhD student](http://www.eng.cam.ac.uk/profiles/xl394)  at the University of Cambridge working 
