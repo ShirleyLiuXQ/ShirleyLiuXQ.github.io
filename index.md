@@ -5,7 +5,7 @@ width="300" height=auto ALIGN="right" style="float: right; margin:20px 20px 20px
 I am a final-year [PhD student](http://www.eng.cam.ac.uk/profiles/xl394)  at the University of Cambridge working 
 with [Professor Ramji Venkataramanan](https://rv285.github.io/).  I'm part of the [Signal Processing and Communications Group](https://sigproc.eng.cam.ac.uk/) in the [Information Engineering Division](http://www.eng.cam.ac.uk/research/academic-divisions/information-engineering) of the Engineering Department.  
 
-My PhD focuses on modern data science using **information theory** and **statistical learning**. My research is driven by a desire to answer questions like: given a complex statistical estimation problem, what is the  minimal amount of data we need to estimate the underlying signal? Can we design efficient, mathematically-principled algorithms attempting to approach the theoretical minimum? 
+My PhD focuses on modern data science using **information theory** and **statistical learning**. My research is driven by a desire to answer questions like: given a complex statistical estimation problem, what is the  minimal amount of data we need to estimate the underlying signal? Can we design efficient, mathematically-principled algorithms attempting to approach the minimum? 
 
 Prior to my PhD, I obtained my BA and MEng with distinction in Information and Computer Engineering from Cambridge in 2019. 
 
