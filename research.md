@@ -1,7 +1,7 @@
 <h1 style="font-size:30px">Research</h1>
 
-My research focus lies in [**information theory**](https://en.wikipedia.org/wiki/Information_theory), [**coding theory**](https://en.wikipedia.org/wiki/Coding_theory#:~:text=Coding%20theory%20is%20the%20study,data%20transmission%20and%20data%20storage.), and [**statistical learning**](https://en.wikipedia.org/wiki/Statistical_learning_theory). 
-Specifically, I am interested in applying tools from information theory and coding theory to (high-dimensional) statistical inference problems, such as  compressed sensing, low-rank matrix estimation, changepoints detection and communications in large user networks. I design efficient algorithms for these  problems, and provide probabilistic guarantees on the tradeoff between sample complexity and estimation error.
+My research focus lies in [**statistical learning**](https://en.wikipedia.org/wiki/Statistical_learning_theory) and [**information theory**](https://en.wikipedia.org/wiki/Information_theory). 
+Specifically, I am interested in applying tools from information theory to (high-dimensional) statistical inference problems, such as  compressed sensing, low-rank matrix estimation, changepoints detection and communications in large user networks. I design efficient algorithms for these  problems, and provide probabilistic guarantees on the tradeoff between sample complexity and estimation error.
 
 I've been particularly interested in studying **message passing algorithms** for the inference problems mentioned above.
 
