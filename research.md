@@ -24,7 +24,7 @@ I review papers for International Symposium on Information Theory (ISIT) and Int
 
 **X. Liu**, K. Hsieh and R. Venkataramanan (2024) "[Coded many-user multiple access via Approximate Messsage Passing](https://arxiv.org/abs/2402.05625)", in review.
 
-G. Arpino, **X. Liu** and R. Venkataramanan (2024) "Changepoints detection in high-dimensional linear regression", in review, submitted version available on request.
+G. Arpino, **X. Liu** and R. Venkataramanan (2024) "Inferring Change Points in High-Dimensional Linear Regression via Approximate Message Passing", in review.
 
 ## In preparation:
 **X. Liu** and R. Venkataramanan (2024) "On generalising Wormald's differential equation theorem", in preparation.
