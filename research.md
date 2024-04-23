@@ -20,14 +20,12 @@ I review papers for International Symposium on Information Theory (ISIT) and Int
 **X. Liu** and R. Venkataramanan, "[Sketching sparse low-rank matrices with near-optimal sample- and time-complexity](https://ieeexplore.ieee.org/document/9834693)," *2022 IEEE International Symposium on Information Theory (ISIT)*, Espoo, Finland, 2022, pp. 3138-3143, doi: 10.1109/ISIT50566.2022.9834693. (<a href="/ISIT_talk_Shirley_Liu_website_version.pdf">presentation slides</a>) 
 
 ## In review: 
-**X. Liu**, P. Cobo and R. Venkataramanan (2024) "Many-user multiple access with random user activity" ([poster](ESIT_GMAC_poster_final.pdf) at [IEEE European School of Information Theory 2023 (ESIT)](https://www.bristol.ac.uk/maths/events/2023/esit-2023.html)), in review, submitted version available on request.
+**X. Liu**, P. Cobo and R. Venkataramanan (2024) "Many-user multiple access with random user activity", in review, submitted version available on request. ([Poster](ESIT_GMAC_poster_final.pdf) at [IEEE European School of Information Theory 2023 (ESIT)](https://www.bristol.ac.uk/maths/events/2023/esit-2023.html))
 
 **X. Liu**, K. Hsieh and R. Venkataramanan (2024) "[Coded many-user multiple access via Approximate Messsage Passing](https://arxiv.org/abs/2402.05625)", in review.
 
-G. Arpino, **X. Liu** and R. Venkataramanan (2024) "[Inferring Change Points in High-Dimensional Linear Regression via Approximate Message Passing](https://arxiv.org/abs/2404.07864)", in review.
+G. Arpino, **X. Liu** and R. Venkataramanan (2024) "[Inferring Change Points in High-Dimensional Linear Regression via Approximate Message Passing](https://arxiv.org/abs/2404.07864)", in review. ([Poster](changepoints_poster.pdf) at [Yale Workshop Honoring Andrew Barron: Forty Years at the Interplay of Information Theory, Probability and Statistical Learning](https://yalefds.swoogo.com/infotheory/4823894))
 
-## In preparation:
-**X. Liu** and R. Venkataramanan (2024) "On generalising Wormald's differential equation theorem", in preparation.
 
 
 
