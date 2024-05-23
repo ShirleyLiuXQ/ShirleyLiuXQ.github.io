@@ -19,12 +19,12 @@ I review papers for International Symposium on Information Theory (ISIT) and Int
 
 **X. Liu** and R. Venkataramanan, "[Sketching sparse low-rank matrices with near-optimal sample- and time-complexity](https://ieeexplore.ieee.org/document/9834693)," *2022 IEEE International Symposium on Information Theory (ISIT)*, Espoo, Finland, 2022, pp. 3138-3143, doi: 10.1109/ISIT50566.2022.9834693. (<a href="/ISIT_talk_Shirley_Liu_website_version.pdf">presentation slides</a>) 
 
-## In review: 
-**X. Liu**, P. Cobo and R. Venkataramanan (2024) "Many-user multiple access with random user activity", in review, submitted version available on request. ([Poster](ESIT_GMAC_poster_final.pdf) at [IEEE European School of Information Theory 2023 (ESIT)](https://www.bristol.ac.uk/maths/events/2023/esit-2023.html))
+## Preprints: 
+**X. Liu**, P. Cobo and R. Venkataramanan (2024) "Many-user multiple access with random user activity", accepted to *2024 ISIT*, camera-ready version available on request. ([poster](ESIT_GMAC_poster_final.pdf))
 
-**X. Liu**, K. Hsieh and R. Venkataramanan (2024) "[Coded many-user multiple access via Approximate Messsage Passing](https://arxiv.org/abs/2402.05625)", in review.
+**X. Liu**, K. Hsieh and R. Venkataramanan (2024) "Coded many-user multiple access via Approximate Messsage Passing", accepted to *2024 ISIT*, camera-ready version available on request. ([arXiv](https://arxiv.org/abs/2402.05625), [talk](IT_seminar_GMAC_220524_github))
 
-G. Arpino, **X. Liu** and R. Venkataramanan (2024) "[Inferring Change Points in High-Dimensional Linear Regression via Approximate Message Passing](https://arxiv.org/abs/2404.07864)", in review. ([Poster](changepoints_poster.pdf) at [Yale Workshop Honoring Andrew Barron: Forty Years at the Interplay of Information Theory, Probability and Statistical Learning](https://yalefds.swoogo.com/infotheory/4823894))
+G. Arpino, **X. Liu** and R. Venkataramanan (2024) "Inferring Change Points in High-Dimensional Linear Regression via Approximate Message Passing", in review. ([arXiv](https://arxiv.org/abs/2404.07864), [poster](changepoints_poster.pdf), [code](https://github.com/gabrielarpino/AMP_chgpt_lin_reg))
 
 
 
