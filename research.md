@@ -22,7 +22,7 @@ I review papers for International Symposium on Information Theory (ISIT) and Int
 ## Preprints: 
 **X. Liu**, P. Cobo and R. Venkataramanan (2024) "Many-user multiple access with random user activity", accepted to *2024 ISIT*, camera-ready version available on request. ([poster](ESIT_GMAC_poster_final.pdf))
 
-**X. Liu**, K. Hsieh and R. Venkataramanan (2024) "Coded many-user multiple access via Approximate Messsage Passing", accepted to *2024 ISIT*, camera-ready version available on request. ([arXiv](https://arxiv.org/abs/2402.05625), [talk](IT_seminar_GMAC_220524_github))
+**X. Liu**, K. Hsieh and R. Venkataramanan (2024) "Coded many-user multiple access via Approximate Messsage Passing", accepted to *2024 ISIT*, camera-ready version available on request. ([arXiv](https://arxiv.org/abs/2402.05625), [talk](IT_seminar_GMAC_220524_github.pdf))
 
 G. Arpino, **X. Liu** and R. Venkataramanan (2024) "Inferring Change Points in High-Dimensional Linear Regression via Approximate Message Passing", in review. ([arXiv](https://arxiv.org/abs/2404.07864), [poster](changepoints_poster.pdf), [code](https://github.com/gabrielarpino/AMP_chgpt_lin_reg))
 
