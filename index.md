@@ -22,6 +22,6 @@ I have lived, studied and thrived in **four cultures** (Chinese, British, Singap
 Besides work, I'm a sports lover and a half-marathon runner.
 
 ## Get in touch:
-I am actively seeking collaborators on high-dimensional statistics, information theory and optimization. Please send me an email if you are interested in working together!
-**Email**: xl394 [at] cam.ac.uk, shirleyliu50@gmail.com
+I am actively seeking collaborators on high-dimensional statistics, information theory and optimization. Please send me an email if you are interested in working together!\
+**Email**: xl394 [at] cam.ac.uk, shirleyliu50@gmail.com\
 **Office**: BN3-03
