@@ -5,7 +5,7 @@ Specifically, I am interested in applying tools from information theory to (high
 
 I've been particularly interested in studying **message passing algorithms** for the inference problems mentioned above.
 
-I review papers for International Symposium on Information Theory (ISIT) and International Symposium on Topics in Coding (ISTC).
+I review papers for the Conference on Neural Information Processing Systems (NeurIPS), the International Conference on Learning Representations (ICLR), International Symposium on Information Theory (ISIT) and International Symposium on Topics in Coding (ISTC).
 
 ## Key words:
 - Message passing algorithms: Belief Propagation and [Approximate Message Passing (AMP)](https://ieeexplore.ieee.org/document/9785928)
