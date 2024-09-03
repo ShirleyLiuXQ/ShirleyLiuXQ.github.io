@@ -23,5 +23,5 @@ Besides work, I'm a sports lover and a half-marathon runner.
 
 ## Get in touch:
 I am actively seeking collaborators on high-dimensional statistics, information theory and optimization. Please send me an email if you are interested in working together!\
-**Email**: xl394 [at] cam.ac.uk, shirleyliu50@gmail.com\
+**Email**: xl394 [at] cam.ac.uk, shirleyliu50 [at] gmail.com\
 **Office**: BN3-03
