@@ -26,6 +26,6 @@ G. Arpino, **X. Liu** and R. Venkataramanan, "[Inferring Change Points in High-D
 **X. Liu** and R. Venkataramanan, "[Sketching sparse low-rank matrices with near-optimal sample- and time-complexity](https://ieeexplore.ieee.org/document/9834693)", *IEEE International Symposium on Information Theory*, Espoo, Finland, 2022, pp. 3138-3143, doi: 10.1109/ISIT50566.2022.9834693. (<a href="/ISIT_talk_Shirley_Liu_website_version.pdf">talk</a>) 
 
 ## PhD thesis:
-**X. Liu**, "Message Passing Algorithms for Statistical Estimation and Communication", [Apollo - University of Cambridge Repository](https://doi.org/10.17863/CAM.112616).
+**X. Liu**, "Message Passing Algorithms for Statistical Estimation and Communication", [Apollo-University of Cambridge Repository](https://doi.org/10.17863/CAM.112616).
 
 
