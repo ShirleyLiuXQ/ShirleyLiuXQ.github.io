@@ -3,7 +3,7 @@ width="300" height=auto ALIGN="right" style="float: right; margin:20px 20px 20px
 
 ## Academic:
 I am a postdoc at Oxford Statistics working 
-with [Prof. Patrick Rebeschini](https://www.stats.ox.ac.uk/~rebeschi/).  I’m particularly interested in exploring online learning, and first-order methods (e.g., studying the training dynamics of simplified versions of popular ML architectures like neural networks and attention mechanisms under gradient descent).
+with [Prof. Patrick Rebeschini](https://www.stats.ox.ac.uk/~rebeschi/).  I’m particularly interested in exploring online learning, and first-order methods (e.g., studying the training dynamics of simplified versions of popular machine learning architectures like neural networks and attention mechanisms under gradient descent).
 
 I completed my PhD at Cambridge in 2024, where I was fortunate to be advised by [Prof Ramji Venkataramanan](https://rv285.github.io/). My PhD work focused on **information theory** and **statistical learning**, and was driven by a desire to answer questions like: given a complex statistical estimation problem, what is the  minimal amount of data we need to estimate the underlying signal? Can we design efficient, mathematically-principled algorithms attempting to approach the minimum? 
 
