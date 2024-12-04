@@ -13,12 +13,17 @@ I review papers for the Conference on Neural Information Processing Systems (Neu
 - General first-order methods e.g. gradient descent, approximate message passing
 - Finite-sample analysis and asymptotic analysis
 
+## Preprints:
+**X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity: achievability bounds and efficient schemes](https://arxiv.org/abs/2412.01511)", in submission, 2024.
+
+G. Arpino, **X. Liu**, J. Gontarek and R. Venkataramanan, "[Inferring Change Points in High-Dimensional Regression via Approximate Message Passing](https://arxiv.org/abs/2404.07864)", in submission, 2024.
+
 ## Publications:
-**X. Liu**, P. Cobo and R. Venkataramanan, "Many-user multiple access with random user activity", *IEEE International Symposium on Information Theory*, Athens, Greece, 2024. ([poster](ESIT_GMAC_poster_final.pdf), [talk](RA_isit2024(17mins).pdf))
+**X. Liu**, P. Pascual Cobo and R. Venkataramanan, "Many-user multiple access with random user activity", *IEEE International Symposium on Information Theory*, Athens, Greece, 2024. ([poster](ESIT_GMAC_poster_final.pdf), [talk](RA_isit2024(17mins).pdf))
 
 **X. Liu**, K. Hsieh and R. Venkataramanan, "Coded many-user multiple access via Approximate Messsage Passing", *IEEE International Symposium on Information Theory*, Athens, Greece, 2024. ([arXiv](https://arxiv.org/abs/2402.05625), [talk](CDMA_isit2024(17mins).pdf))
 
-G. Arpino, **X. Liu** and R. Venkataramanan, "[Inferring Change Points in High-Dimensional Linear Regression via Approximate Message Passing](https://proceedings.mlr.press/v235/arpino24a.html)", *Proceedings of the 41st International Conference on Machine Learning*, PMLR 235:1841-1864, 2024. ([arXiv](https://arxiv.org/abs/2404.07864), [poster](changepoints_poster.pdf), [code](https://github.com/gabrielarpino/AMP_chgpt_lin_reg))
+G. Arpino, **X. Liu** and R. Venkataramanan, "[Inferring Change Points in High-Dimensional Linear Regression via Approximate Message Passing](https://proceedings.mlr.press/v235/arpino24a.html)", *Proceedings of the 41st International Conference on Machine Learning*, PMLR 235:1841-1864, 2024. ([poster](changepoints_poster.pdf), [code](https://github.com/gabrielarpino/AMP_chgpt_lin_reg))
 
 **X. Liu** and R. Venkataramanan, "[Sketching Sparse Low-Rank Matrices With Near-Optimal Sample- and Time-Complexity Using Message Passing](https://ieeexplore.ieee.org/document/10120641)", in *IEEE Transactions on Information Theory*, vol. 69, no. 9, pp. 6071-6097, Sept. 2023, doi: 10.1109/TIT.2023.3273181.
 
