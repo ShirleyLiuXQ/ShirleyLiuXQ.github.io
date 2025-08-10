@@ -3,7 +3,9 @@ width="280" height=auto ALIGN="right" style="float: right; margin:20px 20px 20px
 
 ## Academic:
 I am a postdoc at Oxford Statistics working 
-with [Prof. Patrick Rebeschini](https://www.stats.ox.ac.uk/~rebeschi/). My research focuses on **machine learning theory** and **statistical learning**, with particular emphasis on heterogeneous data settings. I have recently been working on two main problems: (i) designing and analysing algorithms for online learning where data arrives sequentially and evolves over time; (ii) I study the training dynamics of popular machine learning architectures such as neural networks and attention mechanisms, particularly how they behave under challenging conditions like distribution shift and contamination. I am especially interested in understanding phenomena such as benign overfitting, early stopping, and in-context learning in these heterogeneous data settings.
+with [Prof. Patrick Rebeschini](https://www.stats.ox.ac.uk/~rebeschi/). My research focuses on **machine learning theory** and **statistical learning**, with particular emphasis on **heterogeneous data** settings. 
+
+I have recently been working on two main problems: **(i)** designing and analysing algorithms for online learning where data arrives sequentially and evolves over time; **(ii)** I study the training dynamics of popular machine learning architectures such as neural networks and attention mechanisms, particularly how they behave under challenging conditions like non-stationarity, contamination, and distribution shifts. I am especially interested in understanding phenomena such as benign overfitting, early stopping, and in-context learning with data heterogeneity.
 
 I completed my PhD at Cambridge in 2024, where I was fortunate to be advised by [Prof. Ramji Venkataramanan](https://rv285.github.io/). My PhD work centered on **information theory** and **statistical learning**, motivated by fundamental questions such as: Given a complex statistical estimation problem, what is the  minimal amount of data we need to estimate the underlying signal? Can we design efficient, mathematically-principled algorithms that approach the minimum? 
 
