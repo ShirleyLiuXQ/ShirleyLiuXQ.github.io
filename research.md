@@ -1,24 +1,23 @@
 <h1 style="font-size:30px">Research</h1>
 
-My PhD research focused on **statistical learning** and **information theory**. 
-Specifically, I was interested in applying tools from information theory and coding theory to high-dimensional statistical estimation problems, such as changepoints detection and random access in large user networks. I study the tradeoff between sample complexity and estimation error from both a fundamental theoretical perspective and an algorithmic perspective.
+My research focuses on learning theory and information theory in the presence of data heterogeneity. Given the abundance of empirical advances in machine learning and the relative scarcity of theoretical foundations, I believe understanding theoretical limits in estimation and learning problems is crucial for developing more efficient and principled systems. I am particularly interested in investigating such theoretical groundings under data heterogeneity, as real-world datasets often vary across geographic locations, time periods, and user populations. For example, I study the fundamental tradeoff between sample complexity and estimation error in changepoint detection and multi-user communication, and I characterize the minimum regret achievable in non-stationary convex bandits.
 
-I've been particularly interested in studying **message passing algorithms** for the estimation problems mentioned above, which is a class of  iterative algorithms that are fast to implement and achieve statistical optimality in various problems. I studied both belief propagation and [approximate message passing (AMP)](https://ieeexplore.ieee.org/document/9785928) as two types of message passing algorithms.
-
-I review papers for the Conference on Neural Information Processing Systems (NeurIPS) (top reviewer 2024), International Conference on Machine Learning (ICML), International Symposium on Information Theory (ISIT), and International Symposium on Topics in Coding (ISTC).
+During my PhD, I focused extensively on message passing algorithms for statistical estimation: a class of computationally efficient, iterative methods that can achieve statistical optimality across various problems. I studied both belief propagation and [approximate message passing (AMP)](https://ieeexplore.ieee.org/document/9785928).
 
 ## Interests:
-- General first-order methods e.g. gradient descent, approximate message passing
-- High-dimensional statistical learning
+- Data heterogeneity: non-stationarity, contamination, and distribution shifts
+- General first-order methods, e.g., gradient descent, approximate message passing
+- Online learning and bandits
 - Information theory and communication systems
-- Finite-sample analysis and asymptotic analysis
 
 ## Preprints:
+**X. Liu**, D. Baudry, J. Zimmert, P. Rebeschini, A. Akhavan, "[Non-stationary Bandit Convex Optimization: A Comprehensive Study](https://arxiv.org/abs/2506.02980)", 2025.
+
+**X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity: achievability bounds and efficient schemes](https://arxiv.org/abs/2412.01511)", 2025.
+
+G. Arpino, **X. Liu**, J. Gontarek and R. Venkataramanan, "[Inferring Change Points in High-Dimensional Regression via Approximate Message Passing](https://arxiv.org/abs/2404.07864)", 2025.
+
 **X. Liu**, K. Hsieh and R. Venkataramanan, "[Coded many-user multiple access via Approximate Messsage Passing](https://arxiv.org/abs/2402.05625)", accepted to *Information Theory, Probability and Statistical Learning: A Festschrift in Honor of Andrew Barron*, 2025.
-
-**X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity: achievability bounds and efficient schemes](https://arxiv.org/abs/2412.01511)", in submission, 2024.
-
-G. Arpino, **X. Liu**, J. Gontarek and R. Venkataramanan, "[Inferring Change Points in High-Dimensional Regression via Approximate Message Passing](https://arxiv.org/abs/2404.07864)", in submission, 2024.
 
 ## Publications:
 **X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity](https://ieeexplore.ieee.org/abstract/document/10619669)", *IEEE International Symposium on Information Theory*, Athens, Greece, 2024. ([poster](ESIT_GMAC_poster_final.pdf), [talk](RA_isit2024(17mins).pdf))
@@ -34,4 +33,5 @@ G. Arpino, **X. Liu** and R. Venkataramanan, "[Inferring Change Points in High-D
 ## PhD thesis:
 **X. Liu**, "[Message Passing Algorithms for Statistical Estimation and Communication](https://doi.org/10.17863/CAM.112616)", Apollo-University of Cambridge Repository.
 
-
+## Service:
+I review papers for several conferences and journals including the Conference on Neural Information Processing Systems (NeurIPS) (top reviewer 2024), International Conference on Machine Learning (ICML), Transactions on Machine Learning Research, and International Symposium on Information Theory (ISIT).
