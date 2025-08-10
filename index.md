@@ -1,5 +1,5 @@
 <img src="provence_photo.jpeg" alt="provence_photo" 
-width="300" height=auto ALIGN="right" style="float: right; margin:20px 20px 20px 20px">
+width="280" height=auto ALIGN="right" style="float: right; margin:20px 20px 20px 20px">
 
 ## Academic:
 I am a postdoc at Oxford Statistics working 
