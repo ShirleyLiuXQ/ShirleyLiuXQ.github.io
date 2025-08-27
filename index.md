@@ -17,9 +17,9 @@ I was an intern with
 ## Personal:
 My first name is pronounced as "Sh-ih-ow Chi" (meaning jade born at dawn in Chinese), but feel free to call me Shirley!
 
-Having lived and worked across four cultures (Chinese, British, Singaporean, and American) over the past decade, I have developed strong adaptability and open-mindedness. I am naturally curious about people from different cultural backgrounds and enjoy learning from their diverse experiences and perspectives. While I am introverted by nature, I have a warm personality and deep sense of empathy. Through leadership roles such as postgraduate representative, I work to bring people together and foster meaningful connections within my community.
+Having lived and worked across four cultures (Chinese, British, Singaporean, and American), I have developed strong adaptability and open-mindedness. I am naturally curious about people from different cultural backgrounds and enjoy learning from their diverse experiences and perspectives. While I am introverted by nature, I have a warm personality and deep sense of empathy. Through leadership roles such as postgraduate representative, I work to bring people together and foster meaningful connections within my community.
 
-Besides work, I like yoga and running.
+Besides work, I like practising yoga.
 
 ## Get in touch:
 I am actively seeking collaborators on learning theory, and statistical learning. Please send me an email if you are interested in working together!\
