@@ -13,11 +13,11 @@ During my PhD, I focused extensively on **message passing algorithms** for stati
 ## Preprints:
 **X. Liu**, D. Baudry, J. Zimmert, P. Rebeschini, A. Akhavan, "[Non-stationary Bandit Convex Optimization: A Comprehensive Study](https://arxiv.org/abs/2506.02980)", 2025.
 
-**X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity: achievability bounds and efficient schemes](https://arxiv.org/abs/2412.01511)", 2025.
+**X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity: achievability bounds and efficient schemes](https://arxiv.org/abs/2412.01511)", to appear in *IEEE Transactions on Information Theory*, 2025, doi: 10.1109/TIT.2025.3622969.
 
-G. Arpino, **X. Liu**, J. Gontarek and R. Venkataramanan, "[Inferring Change Points in High-Dimensional Regression via Approximate Message Passing](https://arxiv.org/abs/2404.07864)", 2025.
+G. Arpino, **X. Liu**, J. Gontarek and R. Venkataramanan, "[Inferring Change Points in High-Dimensional Regression via Approximate Message Passing](https://arxiv.org/abs/2404.07864)", to appear in *Journal of Machine Learning Research*, 2025.
 
-**X. Liu**, K. Hsieh and R. Venkataramanan, "[Coded many-user multiple access via Approximate Messsage Passing](https://arxiv.org/abs/2402.05625)", accepted to *Information Theory, Probability and Statistical Learning: A Festschrift in Honor of Andrew Barron*, 2025.
+**X. Liu**, K. Hsieh and R. Venkataramanan, "[Coded many-user multiple access via Approximate Messsage Passing](https://arxiv.org/abs/2402.05625)", to appear in *Information Theory, Probability and Statistical Learning: A Festschrift in Honor of Andrew Barron*, 2025.
 
 ## Publications:
 **X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity](https://ieeexplore.ieee.org/abstract/document/10619669)", *IEEE International Symposium on Information Theory*, Athens, Greece, 2024. ([poster](ESIT_GMAC_poster_final.pdf), [talk](RA_isit2024(17mins).pdf))
