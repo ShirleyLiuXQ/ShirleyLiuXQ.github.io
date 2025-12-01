@@ -37,4 +37,4 @@ G. Arpino, **X. Liu** and R. Venkataramanan, "[Inferring Change Points in High-D
 I review papers for several conferences and journals including the Conference on Neural Information Processing Systems (NeurIPS) (top reviewer 2024), International Conference on Machine Learning (ICML), Transactions on Machine Learning Research, and International Symposium on Information Theory (ISIT).
 
 ## Notes:
-Here are some tutorial slides I made on e-values and e-processes primarily based on the [textbook by Ramdas and Wang](https://arxiv.org/abs/2410.23614): [talk1](Ramdas_Wang_ebook_chapter7-2.pdf), [talk2](SAVI_tutorial_shirley.pdf)
+Here are some recent tutorial slides I made on e-values and e-processes primarily based on the [textbook by Ramdas and Wang](https://arxiv.org/abs/2410.23614): [talk1](Ramdas_Wang_ebook_chapter7-2.pdf), [talk2](SAVI_tutorial_shirley.pdf)

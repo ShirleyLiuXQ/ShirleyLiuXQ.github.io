@@ -3,7 +3,7 @@ width="280" height=auto ALIGN="right" style="float: right; margin:20px 20px 20px
 
 ## Academic:
 I am a postdoc at Oxford Statistics working 
-with [Prof. Patrick Rebeschini](https://www.stats.ox.ac.uk/~rebeschi/). My research focuses on **learning theory** and **online learning**, with particular emphasis on **heterogeneous data** settings. 
+with [Prof. Patrick Rebeschini](https://www.stats.ox.ac.uk/~rebeschi/). My research focuses on **learning theory** and **high-dimensional statistics**, with particular emphasis on **heterogeneous data** settings. 
 
 I have recently been working on two main problems: **(i)** Design and analyse algorithms for online learning where data arrives sequentially and evolves over time; **(ii)** Study the training dynamics of popular machine learning architectures such as neural networks and attention mechanisms, particularly how they behave under challenging conditions like non-stationarity, contamination, and distribution shifts. I am especially interested in understanding phenomena such as benign overfitting, early stopping, and in-context learning with data heterogeneity.
 
