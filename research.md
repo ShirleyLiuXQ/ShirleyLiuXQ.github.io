@@ -6,12 +6,12 @@ During my PhD, I focused extensively on **message passing algorithms** for stati
 
 ## Interests:
 - Data heterogeneity: non-stationarity, contamination, and distribution shifts
+- Online learning, bandits, algorithmic statistics
 - General first-order methods, e.g., gradient descent, approximate message passing
-- Online learning and bandits
 - Information theory and communication systems
 
 ## Preprints:
-**X. Liu**, D. Baudry, J. Zimmert, P. Rebeschini, A. Akhavan, "[Non-stationary Bandit Convex Optimization: A Comprehensive Study](https://arxiv.org/abs/2506.02980)", 2025.
+**X. Liu**, D. Baudry, J. Zimmert, P. Rebeschini, A. Akhavan, "[Non-stationary Bandit Convex Optimization: A Comprehensive Study](https://arxiv.org/abs/2506.02980)", to appear in *Proceedings of the 39th Annual Conference on Neural Information Processing Systems*, 2025. ([poster](neurips_poster_bandits.pdf), [talk](CDT_bandits_talk(20mins).pdf))
 
 **X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity: achievability bounds and efficient schemes](https://arxiv.org/abs/2412.01511)", to appear in *IEEE Transactions on Information Theory*, 2025, doi: 10.1109/TIT.2025.3622969.
 
@@ -35,3 +35,6 @@ G. Arpino, **X. Liu** and R. Venkataramanan, "[Inferring Change Points in High-D
 
 ## Service:
 I review papers for several conferences and journals including the Conference on Neural Information Processing Systems (NeurIPS) (top reviewer 2024), International Conference on Machine Learning (ICML), Transactions on Machine Learning Research, and International Symposium on Information Theory (ISIT).
+
+## Notes:
+Here are some tutorial slides I made on e-values and e-processes primarily based on the [textbook by Ramdas and Wang](https://arxiv.org/abs/2410.23614): [talk1](Ramdas_Wang_ebook_chapter7-2.pdf), [talk2](SAVI_tutorial_shirley.pdf)
