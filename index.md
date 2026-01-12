@@ -12,7 +12,7 @@ I completed my PhD at Cambridge in 2024, where I was fortunate to be advised by 
 Prior to my PhD, I obtained my BA and MEng with distinction in Information and Computer Engineering from Cambridge in 2019. 
 
 I was an intern with 
-**Microsoft Research Cambridge** in 2023, where I worked on error correction codes with ML decoding for Project Silica, a novel glass-based data storage technology. This work has been recently accepted to *Nature*.
+**Microsoft Research Cambridge** in 2023, where I worked on error correction codes with ML decoding for Project Silica, a novel glass-based data storage technology. This work has recently been accepted to *Nature*.
 
 ## Personal:
 My first name is pronounced as "Sh-ih-ow Chi" (meaning jade born at dawn in Chinese), but feel free to call me Shirley!
@@ -22,6 +22,6 @@ Having lived and worked across four cultures (British, Chinese, Singaporean, and
 Besides work, I like practising yoga.
 
 ## Get in touch:
-I am actively seeking collaborators on learning theory, statistics and ML. Please send me an email if you are interested in working together!\
+I am actively seeking collaborators on learning theory, statistics and ML. Please send me an email if you are interested in working together!
 
 **Email**: shirley.liu [at] stats.ox.ac.uk, xiaoqi.shirley.liu [at] gmail.com
