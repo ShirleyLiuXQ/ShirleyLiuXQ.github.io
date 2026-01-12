@@ -1,1 +1,1 @@
-Here's my recent [resume](CV_1_12_2025.pdf) :)
+Here's my recent [resume](CV_11_1_2026.pdf) :)

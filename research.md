@@ -1,17 +1,21 @@
 <h1 style="font-size:30px">Research</h1>
 
-My research focuses on **learning theory** and **information theory** in the presence of data heterogeneity. Given the abundance of empirical advances in machine learning and the relative scarcity of theoretical foundations, I believe understanding theoretical limits in estimation and learning problems is crucial for developing more efficient and principled systems. I am particularly interested in investigating such theoretical groundings under **data heterogeneity**, as real-world datasets often vary across geographic locations, time periods, and user populations. For example, I study the fundamental tradeoff between sample complexity and estimation error in changepoint detection and multi-user communication, and I characterize the minimum regret achievable in non-stationary convex bandits.
+My research focuses on **machine learning theory** in the presence of data heterogeneity. Given the abundance of empirical advances in machine learning and the relative scarcity of theoretical foundations, I believe understanding the fundamental limits in estimation and learning problems is crucial for developing more efficient and principled systems. I am particularly interested in investigating such theoretical groundings under **data heterogeneity**, as real-world datasets often vary across geographic locations, time periods, and user populations. For example, I study the fundamental tradeoff between sample complexity and estimation error in changepoint detection, and I characterize the minimum regret achievable in non-stationary convex bandits.
 
 During my PhD, I focused extensively on **message passing algorithms** for statistical estimation: a class of computationally efficient, iterative methods that can achieve statistical optimality across various problems. I studied both belief propagation and [approximate message passing (AMP)](https://ieeexplore.ieee.org/document/9785928).
 
 ## Interests:
-- Data heterogeneity: non-stationarity, contamination, and distribution shifts
-- Online learning, bandits, algorithmic statistics
+- Data heterogeneity: non-stationarity, adversarial contamination, and distribution shifts
+- Online learning, bandits
+- Uncertainty quantification, algorithmic statistics
 - General first-order methods, e.g., gradient descent, approximate message passing
 - Information theory and communication systems
 
 ## Preprints:
 **X. Liu**, D. Baudry, J. Zimmert, P. Rebeschini, A. Akhavan, "[Non-stationary Bandit Convex Optimization: A Comprehensive Study](https://arxiv.org/abs/2506.02980)", to appear in *Proceedings of the 39th Annual Conference on Neural Information Processing Systems*, 2025. ([poster](neurips_poster_bandits.pdf), [talk](CDT_bandits_talk(20mins).pdf))
+
+
+J. Allison, P. Anderson, E. Aranas, Y. Assaf, M. Caballero, J. Chattaway, A Chatzieleftheriou, J. Clegg, B. Cooper, T. Deegan, A. Donnelly, R. Drevinskas, C. Gkantsidis, A. G. Diaz, I. Haller, F. Hong, T. Ilieva, R. Joyce, V. Kapitany, W. Kunkel, D. Lara, T. Lawson, S. Legtchenko, F. Liu, **X. Liu**, B. Magalhaes, S. Nowozin, H. Overweg, A. Rowstron, M. Sakakura, N. Schreiner, A. Smith, O. Snowdon, I. Stefanovici, D. Sweeney, G. Verkes, P. Wainman, C. Whittaker, P. W. Berenguer, H. Williams, T. Winkler, S. Winzeck, R. Black, B. Canakci, D. Cletheroe, Z. Feng, "Laser writing in glass for dense, fast and efficient archival data storage", to appear in *Nature*, 2025.
 
 **X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity: achievability bounds and efficient schemes](https://arxiv.org/abs/2412.01511)", to appear in *IEEE Transactions on Information Theory*, 2025, doi: 10.1109/TIT.2025.3622969.
 
