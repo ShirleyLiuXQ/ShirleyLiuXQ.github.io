@@ -3,7 +3,7 @@ width="280" height=auto ALIGN="right" style="float: right; margin:20px 20px 20px
 
 ## Academic:
 I am a postdoctoral researcher at Oxford Statistics working 
-with [Prof. Patrick Rebeschini](https://www.stats.ox.ac.uk/~rebeschi/). My research focuses on **<span style="color:darkred">learning theory</span>** and **high-dimensional statistics**, with particular emphasis on **heterogeneous data** settings. I believe in [Slow Science](http://slow-science.org/).
+with [Prof. Patrick Rebeschini](https://www.stats.ox.ac.uk/~rebeschi/). My research focuses on **<span style="color:darkred">learning theory</span>** and **<span style="color:darkred">high-dimensional statistics</span>**, with particular emphasis on **<span style="color:darkred">heterogeneous data</span>** settings. I believe in [Slow Science](http://slow-science.org/).
 
 I have recently been working on three main problems: 
 
@@ -11,7 +11,7 @@ I have recently been working on three main problems:
 - Study the **training dynamics** of neural networks and attention mechanisms, particularly under challenging conditions like non-stationarity, adversarial contamination, and distribution shifts; 
 - Black-box methods for post-training **uncertainty quantification** particularly for sequential data. 
 
-I completed my PhD at Cambridge in 2024, where I was fortunate to be advised by [Prof. Ramji Venkataramanan](https://rv285.github.io/). My PhD work centered on **information theory** and **high-dimensional statistics**, motivated by fundamental questions such as: Given a complex statistical estimation problem, what is the  minimal amount of data we need to estimate the underlying signal? Can we design efficient, mathematically-principled algorithms that approach the minimum? 
+I completed my PhD at Cambridge in 2024, where I was fortunate to be advised by [Prof. Ramji Venkataramanan](https://rv285.github.io/). My PhD work centered on **<span style="color:darkred">information theory</span>** and **<span style="color:darkred">high-dimensional statistics</span>**, motivated by fundamental questions such as: Given a complex statistical estimation problem, what is the  minimal amount of data we need to estimate the underlying signal? Can we design efficient, mathematically-principled algorithms that approach the minimum? 
 
 Prior to my PhD, I obtained my BA and MEng with distinction in Information and Computer Engineering from Cambridge in 2019. 
 
