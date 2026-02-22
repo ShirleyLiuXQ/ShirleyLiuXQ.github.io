@@ -16,7 +16,7 @@ I completed my PhD at Cambridge in 2024, where I was fortunate to be advised by 
 Prior to my PhD, I obtained my BA and MEng with distinction in Information and Computer Engineering from Cambridge in 2019. 
 
 I was an intern with 
-**Microsoft Research Cambridge** in 2023, where I worked on error correction codes with ML decoding for Project Silica, a novel glass-based data storage technology. This work has recently been accepted to *Nature*.
+**Microsoft Research Cambridge** in 2023, where I worked on error correction codes with ML decoding for Project Silica, a novel glass-based data storage technology. This work has recently been accepted to [*Nature*](https://www.nature.com/articles/s41586-025-10042-w).
 
 ## Personal:
 My first name is pronounced as "Sh-ih-ow Chi" (meaning jade born at dawn in Chinese), but feel free to call me Shirley!

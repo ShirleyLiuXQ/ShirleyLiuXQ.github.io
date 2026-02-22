@@ -14,16 +14,16 @@ During my PhD, I focused extensively on **<span style="color:darkred">message pa
 ## Preprints:
 **X. Liu**, D. Baudry, J. Zimmert, P. Rebeschini, A. Akhavan, "[Non-stationary Bandit Convex Optimization: A Comprehensive Study](https://arxiv.org/abs/2506.02980)", to appear in *Proceedings of the 39th Annual Conference on Neural Information Processing Systems*, 2025. ([poster](neurips_poster_bandits.pdf), [talk](CDT_bandits_talk(20mins).pdf))
 
-
-J. Allison, P. Anderson, E. Aranas, Y. Assaf, M. Caballero, J. Chattaway, A Chatzieleftheriou, J. Clegg, B. Cooper, T. Deegan, A. Donnelly, R. Drevinskas, C. Gkantsidis, A. G. Diaz, I. Haller, F. Hong, T. Ilieva, R. Joyce, V. Kapitany, W. Kunkel, D. Lara, T. Lawson, S. Legtchenko, F. Liu, **X. Liu**, B. Magalhaes, S. Nowozin, H. Overweg, A. Rowstron, M. Sakakura, N. Schreiner, A. Smith, O. Snowdon, I. Stefanovici, D. Sweeney, G. Verkes, P. Wainman, C. Whittaker, P. W. Berenguer, H. Williams, T. Winkler, S. Winzeck, R. Black, B. Canakci, D. Cletheroe, Z. Feng, "Laser writing in glass for dense, fast and efficient archival data storage", to appear in <span style="color:#007BFF">*Nature*</span>, 2025.
-
-**X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity: achievability bounds and efficient schemes](https://arxiv.org/abs/2412.01511)", to appear in *IEEE Transactions on Information Theory*, 2025, doi: 10.1109/TIT.2025.3622969.
-
-G. Arpino, **X. Liu**, J. Gontarek and R. Venkataramanan, "[Inferring Change Points in High-Dimensional Regression via Approximate Message Passing](https://arxiv.org/abs/2404.07864)", to appear in *Journal of Machine Learning Research*, 2025.
-
 **X. Liu**, K. Hsieh and R. Venkataramanan, "[Coded many-user multiple access via Approximate Messsage Passing](https://arxiv.org/abs/2402.05625)", to appear in *Information Theory, Probability and Statistical Learning: A Festschrift in Honor of Andrew Barron*, 2025.
 
 ## Publications:
+
+J. Allison, P. Anderson, E. Aranas, Y. Assaf, M. Caballero, J. Chattaway, A Chatzieleftheriou, J. Clegg, B. Cooper, T. Deegan, A. Donnelly, R. Drevinskas, C. Gkantsidis, A. G. Diaz, I. Haller, F. Hong, T. Ilieva, R. Joyce, V. Kapitany, W. Kunkel, D. Lara, T. Lawson, S. Legtchenko, F. Liu, **X. Liu**, B. Magalhaes, S. Nowozin, H. Overweg, A. Rowstron, M. Sakakura, N. Schreiner, A. Smith, O. Snowdon, I. Stefanovici, D. Sweeney, G. Verkes, P. Wainman, C. Whittaker, P. W. Berenguer, H. Williams, T. Winkler, S. Winzeck, R. Black, B. Canakci, D. Cletheroe, Z. Feng, "[Laser writing in glass for dense, fast and efficient archival data storage](https://www.nature.com/articles/s41586-025-10042-w)", *Nature* 650, 606–612, 2026.
+
+G. Arpino, **X. Liu**, J. Gontarek and R. Venkataramanan, "[Inferring Change Points in High-Dimensional Regression via Approximate Message Passing](https://arxiv.org/abs/2404.07864)", in *Journal of Machine Learning Research*, 26(225), pp.1-49, 2025.
+
+**X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity: achievability bounds and efficient schemes](https://ieeexplore.ieee.org/document/11206438)", in *IEEE Transactions on Information Theory*, vol. 72, no. 1, pp. 383-414, Jan. 2026, doi: 10.1109/TIT.2025.3622969.
+
 **X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity](https://ieeexplore.ieee.org/abstract/document/10619669)", *IEEE International Symposium on Information Theory*, Athens, Greece, 2024. ([poster](ESIT_GMAC_poster_final.pdf), [talk](RA_isit2024(17mins).pdf))
 
 **X. Liu**, K. Hsieh and R. Venkataramanan, "[Coded many-user multiple access via Approximate Messsage Passing](https://ieeexplore.ieee.org/abstract/document/10619478)", *IEEE International Symposium on Information Theory*, Athens, Greece, 2024. ([talk](CDMA_isit2024(17mins).pdf))
