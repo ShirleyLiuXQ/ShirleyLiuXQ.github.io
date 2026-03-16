@@ -5,10 +5,10 @@ My research focuses on <span style="color:darkred">machine learning theory</span
 During my PhD, I focused extensively on <span style="color:darkred">message passing algorithms</span> for statistical estimation: a class of computationally efficient, iterative methods that can achieve statistical optimality across various problems. I studied both belief propagation and [approximate message passing (AMP)](https://ieeexplore.ieee.org/document/9785928).
 
 ## Interests:
+- Uncertainty quantification, algorithmic statistics, e.g., e-values
 - Data heterogeneity: non-stationarity, adversarial contamination, and distribution shifts
-- Online learning, bandits
-- Uncertainty quantification, algorithmic statistics
 - General first-order methods, e.g., gradient descent, approximate message passing
+- Online learning, bandits
 - Information theory and communication systems
 
 ## Preprints:
@@ -38,7 +38,19 @@ G. Arpino, **X. Liu** and R. Venkataramanan, "[Inferring Change Points in High-D
 **X. Liu**, "[Message Passing Algorithms for Statistical Estimation and Communication](https://doi.org/10.17863/CAM.112616)", Apollo-University of Cambridge Repository.
 
 ## Service:
-I review papers for several conferences and journals including the Conference on Neural Information Processing Systems (NeurIPS) (top reviewer 2024), International Conference on Machine Learning (ICML), Transactions on Machine Learning Research, and International Symposium on Information Theory (ISIT).
+I review papers for several conferences and journals including the Conference on Neural Information Processing Systems (NeurIPS) (top reviewer 2024), International Conference on Machine Learning (ICML), Transactions on Machine Learning Research (TMLR), and International Symposium on Information Theory (ISIT).
 
-## Notes:
-Here are some recent tutorial slides I made on e-values and e-processes primarily based on the [textbook by Ramdas and Wang](https://arxiv.org/abs/2410.23614): [talk1](Ramdas_Wang_ebook_chapter7-2.pdf), [talk2](SAVI_tutorial_shirley.pdf)
+## Talks:
+["Learning Under Non-Stationarity: Statistical Inference & Bandit Convex Optimization"](warwick_stats_seminar_final.pdf), Warwick Algorithms and Computationally Intensive Inference Seminar, Department of Statistics, University of Warwick, March 2026.
+
+"A Friendly Talk on Bandit Convex Optimization in Changing Environments", Oxford Young Statisticians Seminar, Department of Statistics, University of Warwick, March 2026.
+
+["Tight Confidence Sequences From Universal Portfolio"](Reading_group_talk_on_universal_portfolio.pdf), Hypothesis Testing with E-values Reading Group, Department of Statistics, University of Oxford, March 2026.
+
+["Tutorial on Sequential Anytime-Valid Inference Using E-processes"](SAVI_tutorial_shirley.pdf), Statistics in AI CDT Module, Department of Statistics, University of Oxford, November 2025.
+
+["Sequential Anytime-Valid Inference Using E-processes"](Ramdas_Wang_ebook_chapter7-2.pdf), Hypothesis Testing with E-values Reading Group, Department of Statistics, University of Oxford, October 2025. [Reference](https://arxiv.org/abs/2410.23614).
+
+["Loss landscapes and optimizaton in over-parameterized non-linear systems and neural networks"](learning_theory_reading_group.pdf), Learning Theory and Statistical Optimization Reading Group, Department of Statistics, University of Oxford, November 2024.
+
+["Communication over many-user channels via Approximate Message Passing"](IT_seminar_GMAC_220524_github.pdf), Information Theory Seminar, Department of Mathematics, University of Cambridge, May 2025.
