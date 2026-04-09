@@ -14,7 +14,7 @@ During my PhD, I focused extensively on <span style="color:darkred">message pass
 ## Preprints:
 **X. Liu**, D. Baudry, J. Zimmert, P. Rebeschini, A. Akhavan, "[Non-stationary Bandit Convex Optimization: A Comprehensive Study](https://arxiv.org/abs/2506.02980)", to appear in *Proceedings of the 39th Annual Conference on Neural Information Processing Systems*, 2025. ([poster](neurips_poster_bandits.pdf), [talk](CDT_bandits_talk(20mins).pdf))
 
-**X. Liu**, K. Hsieh and R. Venkataramanan, "[Coded many-user multiple access via Approximate Messsage Passing](https://arxiv.org/abs/2402.05625)", to appear in *Information Theory, Probability and Statistical Learning: A Festschrift in Honor of Andrew Barron*, 2025.
+**X. Liu**, K. Hsieh and R. Venkataramanan, "[Coded many-user multiple access via Approximate Messsage Passing](https://arxiv.org/abs/2402.05625)", to appear in *Information Theory, Probability and Statistical Learning: A Festschrift in Honor of Andrew Barron*, 2025. ([conference version](https://ieeexplore.ieee.org/abstract/document/10619478), [talk](CDMA_isit2024(17mins).pdf))
 
 ## Publications:
 
@@ -22,17 +22,11 @@ J. Allison, P. Anderson, E. Aranas, Y. Assaf, M. Caballero, J. Chattaway, A Chat
 
 G. Arpino, **X. Liu**, J. Gontarek and R. Venkataramanan, "[Inferring Change Points in High-Dimensional Regression via Approximate Message Passing](https://arxiv.org/abs/2404.07864)", in *Journal of Machine Learning Research*, 26(225), pp.1-49, 2025.
 
-**X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity: achievability bounds and efficient schemes](https://ieeexplore.ieee.org/document/11206438)", in *IEEE Transactions on Information Theory*, vol. 72, no. 1, pp. 383-414, Jan. 2026, doi: 10.1109/TIT.2025.3622969.
-
-**X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity](https://ieeexplore.ieee.org/abstract/document/10619669)", *IEEE International Symposium on Information Theory*, Athens, Greece, 2024. ([poster](ESIT_GMAC_poster_final.pdf), [talk](RA_isit2024(17mins).pdf))
-
-**X. Liu**, K. Hsieh and R. Venkataramanan, "[Coded many-user multiple access via Approximate Messsage Passing](https://ieeexplore.ieee.org/abstract/document/10619478)", *IEEE International Symposium on Information Theory*, Athens, Greece, 2024. ([talk](CDMA_isit2024(17mins).pdf))
+**X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity: achievability bounds and efficient schemes](https://ieeexplore.ieee.org/document/11206438)", in *IEEE Transactions on Information Theory*, vol. 72, no. 1, pp. 383-414, Jan. 2026, doi: 10.1109/TIT.2025.3622969. ([conference version](https://ieeexplore.ieee.org/abstract/document/10619669), [poster](ESIT_GMAC_poster_final.pdf), [talk](RA_isit2024(17mins).pdf))
 
 G. Arpino, **X. Liu** and R. Venkataramanan, "[Inferring Change Points in High-Dimensional Linear Regression via Approximate Message Passing](https://proceedings.mlr.press/v235/arpino24a.html)", *Proceedings of the 41st International Conference on Machine Learning*, PMLR 235:1841-1864, 2024. ([poster](changepoints_poster.pdf), [code](https://github.com/gabrielarpino/AMP_chgpt_lin_reg))
 
-**X. Liu** and R. Venkataramanan, "[Sketching Sparse Low-Rank Matrices With Near-Optimal Sample- and Time-Complexity Using Message Passing](https://ieeexplore.ieee.org/document/10120641)", in *IEEE Transactions on Information Theory*, vol. 69, no. 9, pp. 6071-6097, Sept. 2023, doi: 10.1109/TIT.2023.3273181.
-
-**X. Liu** and R. Venkataramanan, "[Sketching sparse low-rank matrices with near-optimal sample- and time-complexity](https://ieeexplore.ieee.org/document/9834693)", *IEEE International Symposium on Information Theory*, Espoo, Finland, 2022, pp. 3138-3143, doi: 10.1109/ISIT50566.2022.9834693. (<a href="/ISIT_talk_Shirley_Liu_website_version.pdf">talk</a>) 
+**X. Liu** and R. Venkataramanan, "[Sketching Sparse Low-Rank Matrices With Near-Optimal Sample- and Time-Complexity Using Message Passing](https://ieeexplore.ieee.org/document/10120641)", in *IEEE Transactions on Information Theory*, vol. 69, no. 9, pp. 6071-6097, Sept. 2023, doi: 10.1109/TIT.2023.3273181. ([conference version](https://ieeexplore.ieee.org/document/9834693), <a href="/ISIT_talk_Shirley_Liu_website_version.pdf">talk</a>) 
 
 ## PhD thesis:
 **X. Liu**, "[Message Passing Algorithms for Statistical Estimation and Communication](https://doi.org/10.17863/CAM.112616)", Apollo-University of Cambridge Repository.
