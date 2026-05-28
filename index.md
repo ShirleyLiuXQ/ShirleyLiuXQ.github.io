@@ -7,10 +7,12 @@ with [Prof. Patrick Rebeschini](https://www.stats.ox.ac.uk/~rebeschi/). My resea
 
 I have recently been working on three main problems: 
 
-- Design and analyse algorithms for **online learning** where data arrives sequentially and evolves over time; 
-- Study the **training dynamics** of neural networks and attention mechanisms, particularly under challenging conditions like non-stationarity, adversarial contamination, and distribution shifts; 
-- Black-box methods for post-training **uncertainty quantification** particularly for sequential data. 
+- Characterising **training dynamics** of canonical statistical models including shallow neural networks, with a focus on early stopping, benign overfitting, and feature learning
 
+- Designing algorithms with rigorous guarantees for **sequential decision-making** problems, including bandits and adaptive inference
+
+- **Uncertainty quantification** using distribution-free and assumption-lean methods, including e-values, conformal prediction, and prediction-powered inference
+ 
 I completed my PhD at Cambridge in 2024, where I was fortunate to be advised by [Prof. Ramji Venkataramanan](https://rv285.github.io/). My PhD work centered on <span style="color:darkred">information theory</span> and <span style="color:darkred">high-dimensional statistics</span>, motivated by fundamental questions such as: Given a complex statistical estimation problem, what is the  minimal amount of data we need to estimate the underlying signal? Can we design efficient, mathematically-principled algorithms that approach the minimum? 
 
 Prior to my PhD, I obtained my BA and MEng with distinction in Information and Computer Engineering from Cambridge in 2019. 
@@ -21,11 +23,11 @@ I was an intern with
 ## Personal:
 My first name is pronounced as "Sh-ih-ow Chi" (meaning jade born at dawn in Chinese), but feel free to call me Shirley!
 
-Having lived and worked across four cultures (British, Chinese, Singaporean, and American), I have developed strong adaptability and open-mindedness. I am naturally curious about people from different cultural backgrounds and enjoy learning from their diverse experiences and perspectives. While I am introverted by nature, I have a warm personality and deep sense of empathy. Through leadership roles such as postgraduate representative, I work to bring people together and foster meaningful connections within my community.
+Having lived and worked across four cultures (British, Chinese, Singaporean, and American), I have developed a genuine curiosity about people and a deep appreciation for diverse perspectives. Though introverted by nature, I bring warmth and empathy to the communities I am part of, and I take pride in fostering connections among people through roles such as postgraduate representative.
 
 Besides work, I like practising yoga.
 
 ## Get in touch:
-I am actively seeking collaborators on learning theory, statistics and ML. Please send me an email if you are interested in working together!
+I am actively seeking collaborators on machine learning theory and statistics. Please send me an email if you are interested in working together! I'm always happy to chat.
 
 **Email**: shirley.liu [at] stats.ox.ac.uk, xiaoqi.shirley.liu [at] gmail.com
