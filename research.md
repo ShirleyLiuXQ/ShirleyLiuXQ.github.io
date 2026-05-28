@@ -2,7 +2,13 @@
 
 My research develops <span style="color:darkred">statistical and information-theoretic foundations</span> for machine learning, with a particular focus on learning under <span style="color:darkred">data heterogeneity</span> as real-world datasets often vary across geographic locations, time periods, and user populations. I believe that as empirical advances in machine learning continue to outpace our theoretical understanding, characterising fundamental limits for learning problems and designing principled algorithms with provable guarantees becomes increasingly important, both for building more effective systems and for understanding when and why existing ones work. 
 
-My current work spans three directions. (i) I study <span style="color:darkred">training dynamics</span> of canonical models, including shallow neural networks and linear classifiers, with a focus on phenomena such as early stopping, benign overfitting, and feature learning that shed light on the behaviour of large-scale systems. (ii) I design algorithms with rigorous guarantees for <span style="color:darkred">sequential decision-making</span> including bandits and adaptive inference. (iii) I work on <span style="color:darkred">uncertainty quantification</span> using distribution-free and assumption-lean tools such as e-values, conformal prediction, and prediction-powered inference.
+My current work spans three directions. 
+
+**(i)** I study <span style="color:darkred">training dynamics</span> of canonical models, including shallow neural networks and linear classifiers, with a focus on phenomena such as early stopping, benign overfitting, and feature learning that shed light on the behaviour of large-scale systems. 
+
+**(ii)** I design algorithms with rigorous guarantees for <span style="color:darkred">sequential decision-making</span> including bandits and adaptive inference. 
+
+**(iii)** I work on <span style="color:darkred">uncertainty quantification</span> using distribution-free and assumption-lean tools such as e-values, conformal prediction, and prediction-powered inference.
 
 During my PhD, I focused on <span style="color:darkred">message passing algorithms</span> for high-dimensional statistical estimation: a family of computationally efficient, iterative methods that provably achieve statistical optimality across a range of problems. I applied these to changepoint detection in heterogeneous data, sketching of sparse low-rank matrices, and reliable communication for large user networks.
 
