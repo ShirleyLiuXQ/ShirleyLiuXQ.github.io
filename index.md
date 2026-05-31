@@ -23,7 +23,7 @@ I was an intern with
 ## Personal:
 My first name is pronounced as "Sh-ih-ow Chi" (meaning jade born at dawn in Chinese), but feel free to call me Shirley!
 
-Having lived and worked across four cultures (British, Chinese, Singaporean, and American), I have developed a genuine curiosity about people and a deep appreciation for diverse perspectives. Though introverted by nature, I bring warmth and empathy to the communities I am part of, and I take pride in fostering connections among people through roles such as postgraduate representative.
+Living and working across British, Chinese, Singaporean, and American cultures has shaped how I engage with people and ideas. I'm introverted, but I care about the communities I'm part of and have taken on roles like postgraduate representative to help bring people together.
 
 Besides work, I like practising yoga.
 
