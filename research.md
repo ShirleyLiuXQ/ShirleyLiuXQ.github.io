@@ -4,28 +4,19 @@
 Empirical advances in machine learning have outpaced our theoretical understanding, leaving open central questions about when, why, and how modern machine learning systems work. My research aims to develop <span style="color:darkred">statistical and information-theoretic foundations</span> for machine learning that help address these questions. A recurring theme is learning under <span style="color:darkred">data heterogeneity</span> since real-world data varies across time, latent groups, and problem instances, violating the stationarity and homogeneity assumptions on which much of classical theory rests.
 
 Drawing on statistical learning theory, high-dimensional statistics, information theory, probability theory, and optimisation, my recent work is organised around three inter-connected threads: 
-
-<ul>
-<li>
 <details markdown="1">
-<summary><strong>Training dynamics of canonical statistical & machine learning models</strong> <span style="font-size: 0.8em;">▶</span></summary>
+<summary><span style="font-size: 0.8em;">▶</span> <strong>Training dynamics of canonical statistical & machine learning models</strong> </summary>
 A key question in learning theory is how the model class and training procedure jointly  determine the learned solution  and its generalisation properties. Current theory, both asymptotic and finite-sample,  extends only to  canonical models such as  Gaussian mixtures and multi-index models (i.e., two-layer neural networks), since precise analyses are technically demanding and intricate even in these cases. Nevertheless, such analyses  have *repeatedly* sharpened  our understanding of phenomena including   <span style="color:darkred">early stopping</span>, <span style="color:darkred">benign overfitting</span>, and <span style="color:darkred">feature learning</span>, and informed practical choices of model and training procedure. Two of my recent and ongoing projects contribute to this area.
 </details>
-</li>
-<li>
 <details markdown="1">
-<summary><strong>Sequential decision-making under data heterogeneity</strong> <span style="font-size: 0.8em;">▶</span></summary>
+<summary><span style="font-size: 0.8em;">▶</span> <strong>Sequential decision-making under data heterogeneity</strong></summary>
 Sequential decision-making arises  wherever actions must be taken one at a time, under <span style="color:darkred">partial feedback</span>, with each action shaping what is  observed next:  clinical trials allocating patients as evidence accrues, recommender systems learning preferences from the choices they elicit, or inference pipelines escalating a query through a cascade of increasingly costly models, deciding at each stage whether to exit or defer. What makes such problems hard is that the information needed to act optimally is *unavailable* at the time of action, so practical systems rely heavily on heuristics. My work develops procedures with provable optimality guarantees that can <span style="color:darkred">inform or supersede heuristics</span>.
 </details>
-</li>
-<li>
 <details markdown="1">
-<summary><strong>Uncertainty quantification under weak  distributional assumptions</strong> <span style="font-size: 0.8em;">▶</span></summary>
-Quantifying uncertainty is relatively straightforward when the model is well-specified and much harder otherwise. My ongoing research asks what can *still* be certified when the usual distributional assumptions are withdrawn. <span style="color:darkred">E-values and e-processes</span>, <span style="color:darkred">conformal prediction</span>, and <span style="color:darkred">prediction-powered inference</span> deliver inference that remains valid at arbitrary, data-dependent  sample sizes, under  minimal data distributional assumptions.  
+<summary><span style="font-size: 0.8em;">▶</span> <strong>Uncertainty quantification under weak  distributional assumptions</strong> </summary>
+Quantifying uncertainty is relatively straightforward when the model is well-specified and much harder otherwise. My ongoing research asks what can *still* be certified when the usual distributional assumptions are withdrawn. <span style="color:darkred">E-values and e-processes</span>, <span style="color:darkred">conformal prediction</span>, and <span style="color:darkred">prediction-powered inference</span> deliver inference that remains valid at arbitrary, data-dependent  sample sizes, under  minimal data distributional assumptions.
 </details>
-</li>
-</ul>
-
+\
 During my PhD, I focused on <span style="color:darkred">message passing algorithms</span> for high-dimensional statistical estimation and inference: a family of computationally efficient, iterative algorithms that provably achieve statistical optimality across a range of problems. I applied these to changepoint localisation, sketching of sparse low-rank matrices, and reliable communication for large user networks.
 
 ## Interests:
