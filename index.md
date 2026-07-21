@@ -3,7 +3,7 @@ width="280" height=auto ALIGN="right" style="float: right; margin:20px 20px 20px
 
 ## Academic:
 I am a postdoctoral researcher at Oxford Statistics working 
-with [Prof. Patrick Rebeschini](https://www.stats.ox.ac.uk/~rebeschi/). My research focuses on <span style="color:darkred">learning theory</span> and <span style="color:darkred">high-dimensional statistics</span>, with particular emphasis on <span style="color:darkred">heterogeneous data</span> settings. I believe in [Slow Science](http://slow-science.org/).
+with [Prof. Patrick Rebeschini](https://www.stats.ox.ac.uk/~rebeschi/). My research focuses on <span style="color:darkred">learning theory</span> and <span style="color:darkred">high-dimensional statistics</span>, with an emphasis on <span style="color:darkred">heterogeneous data</span> settings. I believe in [Slow Science](http://slow-science.org/).
 
 I have recently been working on three main problems: 
 - Characterise **training dynamics** of canonical statistical and machine learning models, with a focus on understanding early stopping, benign overfitting, and feature learning

@@ -1,7 +1,7 @@
 <h1 style="font-size:30px">Research</h1>
 
 
-Empirical advances in machine learning have outpaced our theoretical understanding, leaving open central questions about when, why, and how modern machine learning systems work. My research aims to develop <span style="color:darkred">statistical and information-theoretic foundations</span> for machine learning that help address these questions. A recurring theme is learning under <span style="color:darkred">data heterogeneity</span> since real-world data varies across time, latent groups, and problem instances, violating the stationarity and homogeneity assumptions on which much of classical theory rests.
+Empirical advances in machine learning have outpaced our theoretical understanding, leaving open central questions about when, why, and how modern machine learning systems work. My research aims to develop <span style="color:darkred">statistical and information-theoretic foundations</span> for machine learning that help address these questions. A recurring theme of my research is learning under <span style="color:darkred">data heterogeneity</span> since real-world data varies across time, latent groups, and problem instances, violating the stationarity and homogeneity assumptions on which much of classical theory rests.
 
 Drawing on statistical learning theory, high-dimensional statistics, information theory, probability theory, and optimisation, my recent work is organised around three inter-connected threads: 
 <details markdown="1">
@@ -14,7 +14,7 @@ Sequential decision-making arises  wherever actions must be taken one at a time,
 </details>
 <details markdown="1">
 <summary><span style="font-size: 0.8em;">▶</span> <strong>Uncertainty quantification under weak  distributional assumptions</strong> </summary>
-Quantifying uncertainty is relatively straightforward when the model is well-specified and much harder otherwise. My ongoing research asks what can *still* be certified when the usual distributional assumptions are withdrawn. <span style="color:darkred">E-values and e-processes</span>, <span style="color:darkred">conformal prediction</span>, and <span style="color:darkred">prediction-powered inference</span> deliver inference that remains valid at arbitrary, data-dependent  sample sizes, under  minimal data distributional assumptions.
+Quantifying uncertainty is relatively straightforward when the model is well-specified and much harder otherwise. My ongoing research asks what can *still* be certified when the usual distributional assumptions are withdrawn. The main tools I use are <span style="color:darkred">e-values and e-processes</span>, <span style="color:darkred">conformal prediction</span>, and <span style="color:darkred">prediction-powered inference</span>, which together deliver inference that remains valid at arbitrary, data-dependent  sample sizes, under  minimal data distributional assumptions.
 </details>
 \
 During my PhD, I focused on <span style="color:darkred">message passing algorithms</span> for high-dimensional statistical estimation and inference: a family of computationally efficient, iterative algorithms that provably achieve statistical optimality across a range of problems. I applied these to changepoint localisation, sketching of sparse low-rank matrices, and reliable communication for large user networks.
