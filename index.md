@@ -16,7 +16,7 @@ I was an intern with
 **Microsoft Research Cambridge** in 2023, where I worked on error correction codes with ML decoding for Project Silica, a novel glass-based archival data storage technology. This work has recently appeared in [*Nature*](https://www.nature.com/articles/s41586-025-10042-w).
 
 ## Personal:
-My first name is pronounced as "Sh-ih-ow Chi" (meaning jade born at dawn in Chinese), but feel free to call me Shirley!
+My first name is pronounced as "Sh-ih-ow Chi" (meaning jade born at dawn in Chinese), but feel free to call me Shirley! I publish under both *Xiaoqi Liu* and *Shirley Xiaoqi Liu*.
 
 Living and working across British, Chinese, Singaporean, and American cultures has shaped how I engage with people and ideas. I'm introverted, but I care about the communities I'm part of and have taken on roles like postgraduate representative to help bring people together.
 
@@ -25,4 +25,4 @@ Besides work, I like practising yoga.
 ## Get in touch:
 I am actively seeking collaborators on machine learning theory and statistics. Please send me an email if you are interested in working together! I'm always happy to chat.
 
-**Email**: shirley.liu [at] stats.ox.ac.uk, xiaoqi.shirley.liu [at] gmail.com
+**Email**: shirley.liu [at] stats.ox.ac.uk, shirley.xiaoqi.liu [at] gmail.com
