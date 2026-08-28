@@ -6,9 +6,9 @@ I am a postdoctoral researcher at Oxford Statistics working
 with [Prof. Patrick Rebeschini](https://www.stats.ox.ac.uk/~rebeschi/). My research focuses on <span style="color:darkred">learning theory</span> and <span style="color:darkred">high-dimensional statistics</span>, with an emphasis on <span style="color:darkred">heterogeneous data</span> settings. I believe in [Slow Science](http://slow-science.org/).
 
 I have recently been working on three main problems: 
-- Characterise **training dynamics** of canonical statistical and machine learning models, with a focus on understanding early stopping, benign overfitting, and feature learning
-- **Sequential decision-making** under data heterogeneity with rigorous guarantees, including bandits and adaptive inference
-- **Uncertainty quantification** using assumption-lean or distribution-free methods, including e-values, conformal prediction, and prediction-powered inference
+- Characterise **training dynamics** of canonical statistical and machine learning models, with a focus on understanding early stopping of gradient descent, benign overfitting, and feature learning
+- **Sequential decision-making** on heterogeneous data with rigorous guarantees, including bandits and adaptive inference
+- **Uncertainty quantification** under minimal assumptions, including e-values, conformal prediction, and prediction-powered inference
  
 I completed my PhD at Cambridge in 2024, where I was fortunate to be advised by [Prof. Ramji Venkataramanan](https://rv285.github.io/). My PhD work centered on <span style="color:darkred">information theory</span> and <span style="color:darkred">high-dimensional statistics</span>. Prior to my PhD, I obtained my BA and MEng with distinction in Information and Computer Engineering from Cambridge in 2019.
 

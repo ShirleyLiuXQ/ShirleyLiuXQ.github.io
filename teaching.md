@@ -8,7 +8,7 @@ Over the past decade, I have participated in numerous teaching and outreach acti
 ## Selected teaching & outreach experience:
 <img src="micro_distance_photo.jpeg"  
 width="250" height=auto ALIGN="right">
-- Co-supervise MSc projects on statistics, and machine learning theory, 2025-present
+- Co-supervise MSc projects on statistics and machine learning theory, 2025-present ([proposal](MSc_project_2025_Liu_Rebeschini.pdf) for 2025)
 - Co-supervise UNIQplus project (Oxford widening-access research internship programme), 2026
 - Speaker and lecturer at algorithmic statistics module and workshop for Imperial-Oxford StatML Centre for Doctoral Training (CDT) and for the Fundamentals of AI Erlangen Hub, November 2025
 - Teaching assistant for third-year undergraduate courses 3F7 Information Theory & Coding and 3F4 Data Transmission, 2019-2024
