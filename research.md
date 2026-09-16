@@ -20,11 +20,11 @@ Quantifying uncertainty is relatively straightforward when the model is well-spe
 During my PhD, I focused on <span style="color:darkred">message passing algorithms</span> for high-dimensional statistical estimation and inference: a family of computationally efficient, iterative algorithms that provably achieve statistical optimality across a range of problems. I applied these to changepoint localisation, sketching sparse low-rank matrices, and reliable coding and decoding schemes for communication in large user networks.
  
 ## Interests:
-- Training dynamics: early stopping of gradient descent, benign overfitting, feature learning. 
-- First-order optimisation methods: gradient descent, approximate message passing
-- Sequential decision-making: bandits, online learning, adaptive inference
-- Uncertainty quantification: e-values, conformal prediction, prediction-powered inference
-- Information theory and communication systems
+- **Training dynamics:** early stopping of gradient descent, benign overfitting, feature learning. 
+- **First-order optimisation methods:** gradient descent, approximate message passing
+- **Sequential decision-making:** bandits, online learning, adaptive inference
+- **Uncertainty quantification:** e-values, conformal prediction, prediction-powered inference
+- **Information theory and communication systems**
 
 ## Get in touch:
 I've come to realise that clear thinking and clear presentation strengthen each other, so I spend a lot of time structuring and crafting my papers and talks. Most papers below are accompanied with **talk slides**, which give a more visual and high-level explanation of the same technical ideas. If anything is unclear, please  get in touch: I'm always glad to explain further, and questions often show me where the presentation could be improved. :)
@@ -43,7 +43,7 @@ I've come to realise that clear thinking and clear presentation strengthen each 
 
 ## Selected talks:
 <img src="evalues_talk.jpeg"  
-width="180" height=auto ALIGN="right"
+width="200" height=auto ALIGN="right"
 style="float: right; margin: 10px 0 10px 20px;"> 
 1. Upcoming: *Statistics Seminar*, School of Mathematics, University of Bristol, Oct 2026.
 2. "Bayes-Assisted Confidence Sequences for CDFs", *Safe Anytime-Valid Inference (SAVI) Conference*, University of Twente, Jul 2026.
