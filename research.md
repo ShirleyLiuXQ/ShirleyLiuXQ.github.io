@@ -27,7 +27,7 @@ During my PhD, I focused on <span style="color:darkred">message passing algorith
 - **Information theory, coding theory and communication systems**
 
 ## Get in touch:
-I've come to realise that clear thinking and clear presentation enforce each other, so I spend a lot of time structuring and crafting my papers and talks. Most papers below are accompanied with **talk slides**, which give a more visual and high-level explanation of the same technical ideas. If anything is unclear, please  get in touch: I'm always glad to explain further, and questions often show me where the presentation could be improved. :)
+I've come to realise that clear thinking and clear presentation reinforce each other, so I spend a lot of time structuring and crafting my papers and talks. Most papers below are accompanied with **talk slides**, which give a more visual and high-level explanation of the same technical ideas. If anything is unclear, please  get in touch: I'm always glad to explain further, and questions often show me where the presentation could be improved. :)
 
 ## Selected preprints & publications:
 
