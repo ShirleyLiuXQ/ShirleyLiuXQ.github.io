@@ -45,8 +45,8 @@ I've come to realise that clear thinking and clear presentation reinforce each o
 <img src="evalues_talk.jpeg"  
 width="200" height=auto ALIGN="right"
 style="float: right; margin: 10px 0 10px 20px;"> 
-1. Upcoming: *Invited talk*, IMS International Conference on Statistics and Data Science (ICSDS), Split, Croatia, Dec 2026.
-2. Upcoming: *Statistics Seminar*, School of Mathematics, University of Bristol, Oct 2026.
+1. **Upcoming:** *Invited talk*, IMS International Conference on Statistics and Data Science (ICSDS), Split, Croatia, Dec 2026.
+2. **Upcoming:** *Statistics Seminar*, School of Mathematics, University of Bristol, Oct 2026.
 3. "Bayes-Assisted Confidence Sequences for CDFs", *Safe Anytime-Valid Inference (SAVI) Conference*, University of Twente, Jul 2026.
 4. ["Mind the U Curve: Why We Stop Gradient Descent Early"](talk_on_early_stopped_GD(10mins).pdf), *Meet Our Group Seminar Series*, Department of Statistics, University of Oxford, May 2026.
 5. ["Learning Under Non-Stationarity: Statistical Inference & Bandit Convex Optimization"](warwick_stats_seminar_final.pdf), *Algorithms and Computationally Intensive Inference Seminar*, Department of Statistics, University of Warwick, Mar 2026.
