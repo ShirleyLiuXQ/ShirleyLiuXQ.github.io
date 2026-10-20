@@ -45,16 +45,17 @@ I've come to realise that clear thinking and clear presentation reinforce each o
 <img src="evalues_talk.jpeg"  
 width="200" height=auto ALIGN="right"
 style="float: right; margin: 10px 0 10px 20px;"> 
-1. Upcoming: *Statistics Seminar*, School of Mathematics, University of Bristol, Oct 2026.
-2. "Bayes-Assisted Confidence Sequences for CDFs", *Safe Anytime-Valid Inference (SAVI) Conference*, University of Twente, Jul 2026.
-3. ["Mind the U Curve: Why We Stop Gradient Descent Early"](talk_on_early_stopped_GD(10mins).pdf), *Meet Our Group Seminar Series*, Department of Statistics, University of Oxford, May 2026.
-4. ["Learning Under Non-Stationarity: Statistical Inference & Bandit Convex Optimization"](warwick_stats_seminar_final.pdf), *Algorithms and Computationally Intensive Inference Seminar*, Department of Statistics, University of Warwick, Mar 2026.
-5. "[Tight Confidence Sequences From Universal Portfolio](Reading_group_talk_on_universal_portfolio.pdf)", *Hypothesis Testing with E-values Reading Group*, Department of Statistics, University of Oxford, Mar 2026.
-6. "[Non-Stationary Bandit Convex Optimization: Algorithms and Links to Coin Betting](CDT_bandits_talk(20mins).pdf)", *Algorithmic Statistics Workshop*, Department of Statistics, University of Oxford, Nov 2025.
-7. "[Tutorial on Sequential Anytime-Valid Inference Using E-processes](SAVI_tutorial_shirley.pdf)", *Statistics in AI CDT Module*, Department of Statistics, University of Oxford, Nov 2025.
-8. "[Sequential Anytime-Valid Inference Using E-processes](Ramdas_Wang_ebook_chapter7-2.pdf)", *Hypothesis Testing with E-values Reading Group*, Department of Statistics, University of Oxford, Oct 2025.)
-9. "[Loss landscapes and optimizaton in over-parameterized non-linear systems and neural networks](learning_theory_reading_group.pdf) ", *Learning Theory and Statistical Optimization Reading Group*, Department of Statistics, University of Oxford, Nov 2024.
-10. ["Communication over many-user channels via Approximate Message Passing"](IT_seminar_GMAC_220524_github.pdf), *Information Theory Seminar*, Department of Mathematics, University of Cambridge, May 2024.
+1. Upcoming: *Invited talk*, IMS International Conference on Statistics and Data Science (ICSDS), Split, Croatia, Dec 2026.
+2. Upcoming: *Statistics Seminar*, School of Mathematics, University of Bristol, Oct 2026.
+3. "Bayes-Assisted Confidence Sequences for CDFs", *Safe Anytime-Valid Inference (SAVI) Conference*, University of Twente, Jul 2026.
+4. ["Mind the U Curve: Why We Stop Gradient Descent Early"](talk_on_early_stopped_GD(10mins).pdf), *Meet Our Group Seminar Series*, Department of Statistics, University of Oxford, May 2026.
+5. ["Learning Under Non-Stationarity: Statistical Inference & Bandit Convex Optimization"](warwick_stats_seminar_final.pdf), *Algorithms and Computationally Intensive Inference Seminar*, Department of Statistics, University of Warwick, Mar 2026.
+6. "[Tight Confidence Sequences From Universal Portfolio](Reading_group_talk_on_universal_portfolio.pdf)", *Hypothesis Testing with E-values Reading Group*, Department of Statistics, University of Oxford, Mar 2026.
+7. "[Non-Stationary Bandit Convex Optimization: Algorithms and Links to Coin Betting](CDT_bandits_talk(20mins).pdf)", *Algorithmic Statistics Workshop*, Department of Statistics, University of Oxford, Nov 2025.
+8. "[Tutorial on Sequential Anytime-Valid Inference Using E-processes](SAVI_tutorial_shirley.pdf)", *Statistics in AI CDT Module*, Department of Statistics, University of Oxford, Nov 2025.
+9. "[Sequential Anytime-Valid Inference Using E-processes](Ramdas_Wang_ebook_chapter7-2.pdf)", *Hypothesis Testing with E-values Reading Group*, Department of Statistics, University of Oxford, Oct 2025.)
+10. "[Loss landscapes and optimizaton in over-parameterized non-linear systems and neural networks](learning_theory_reading_group.pdf) ", *Learning Theory and Statistical Optimization Reading Group*, Department of Statistics, University of Oxford, Nov 2024.
+11. ["Communication over many-user channels via Approximate Message Passing"](IT_seminar_GMAC_220524_github.pdf), *Information Theory Seminar*, Department of Mathematics, University of Cambridge, May 2024.
 
 ## Service:
 I review papers for several conferences and journals including the Conference on Neural Information Processing Systems (NeurIPS) (top reviewer 2024), International Conference on Machine Learning (ICML), Transactions on Machine Learning Research (TMLR), and International Symposium on Information Theory (ISIT).
