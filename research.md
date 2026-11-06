@@ -31,7 +31,7 @@ I've come to realise that clear thinking and clear presentation reinforce each o
 
 ## Selected preprints & publications:
 
-1. A. Buna, **S.X. Liu**, P. Rebeschini, "[Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification](https://arxiv.org/abs/2608.06250)", accepted to *Proceedings of the 40th Annual Conference on Neural Information Processing Systems*, 2026. ([talk](talk_on_early_stopped_GD(10mins).pdf))
+1. A. Buna, **S.X. Liu**, P. Rebeschini, "[Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification](https://arxiv.org/abs/2608.06250)", accepted to *Proceedings of the 40th Annual Conference on Neural Information Processing Systems*, 2026. ([talk](Early_stopped_GD_45mins_10QA.pdf))
 2. **S.X. Liu**<sup style="font-size: 0.9em;">&#8727;</sup>, F. Regol<sup style="font-size: 0.9em;">&#8727;</sup>, A. Valkanas<sup style="font-size: 0.9em;">&#8727;</sup>, P. Rebeschini, M. Coates, "[Bayes-Consistent Losses for Adaptive Inference in Classification](https://arxiv.org/abs/2610.39709)", 2026.
 3. **X. Liu**, D. Baudry, J. Zimmert, P. Rebeschini, A. Akhavan, "[Non-stationary Bandit Convex Optimization: A Comprehensive Study](https://openreview.net/forum?id=1GCbcBJt83)", *Proceedings of the 39th Annual Conference on Neural Information Processing Systems*, 38, pp.65559-65599, 2025. ([talk](CDT_bandits_talk(20mins).pdf), [poster](neurips_poster_bandits.pdf))
 4. J. Allison<sup>&dagger;</sup>, P. Anderson<sup>&dagger;</sup>, ..., **X. Liu**<sup>&dagger;</sup>, ..., et al., "[Laser writing in glass for dense, fast and efficient archival data storage](https://www.nature.com/articles/s41586-025-10042-w)", *Nature*, 650, 606–612, 2026.
@@ -49,7 +49,7 @@ I've come to realise that clear thinking and clear presentation reinforce each o
 width="200" height=auto ALIGN="right"
 style="float: right; margin: 10px 0 10px 20px;"> 
 1. **Upcoming:** *Invited talk*, IMS International Conference on Statistics and Data Science (ICSDS), Split, Croatia, Dec 2026.
-2. "When to Stop Gradient Descent: Minimax Optimal Early Stopping for Classification", *Statistics Seminar*, School of Mathematics, University of Bristol, Oct 2026.
+2. "[Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification](Early_stopped_GD_45mins_10QA.pdf)", *Statistics Seminar*, School of Mathematics, University of Bristol, Oct 2026.
 3. "Bayes-Assisted Confidence Sequences for CDFs", *Safe Anytime-Valid Inference (SAVI) Conference*, University of Twente, Jul 2026.
 4. ["Mind the U Curve: Why We Stop Gradient Descent Early"](talk_on_early_stopped_GD(10mins).pdf), *Meet Our Group Seminar Series*, Department of Statistics, University of Oxford, May 2026.
 5. ["Learning Under Non-Stationarity: Statistical Inference & Bandit Convex Optimization"](warwick_stats_seminar_final.pdf), *Algorithms and Computationally Intensive Inference Seminar*, Department of Statistics, University of Warwick, Mar 2026.
