@@ -5,7 +5,7 @@ I'm a postdoctoral researcher in the Department of Statistics at Oxford, working
 
 I completed my PhD in <span class="kw">information theory</span> and <span class="kw">high-dimensional statistics</span>  at Cambridge, advised by [Prof. Ramji Venkataramanan](https://rv285.github.io/).  
 
-I was an intern with Microsoft Research Cambridge in 2023, where I designed error correction codes for a novel glass-based optical data storage technology. This work has recently appeared in [*Nature*](https://www.nature.com/articles/s41586-025-10042-w).
+During an internship at Microsoft Research,   I designed error correction codes for a novel glass-based optical data storage technology. This work  recently appeared in [*Nature*](https://www.nature.com/articles/s41586-025-10042-w).
 {% include news.html %}
 
 ## Contact

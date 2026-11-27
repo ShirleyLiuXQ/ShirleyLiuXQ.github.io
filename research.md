@@ -4,9 +4,11 @@ title: Research
 ---
 # Research
 
-Empirical advances in machine learning continue to outpace our theoretical understanding, leaving open fundamental questions about when, why, and how modern learning systems work. My research aims to develop <span class="kw">statistical and information-theoretic foundations</span> that help answer these questions and guide the design of more efficient and reliable learning systems. A recurring theme of my work is learning from <span class="kw">heterogeneous data</span>: real-world data often varies across time, latent groups, and problem instances, challenging the stationarity and homogeneity assumptions underlying much of classical learning theory.
+Empirical advances in machine learning continue to outpace our theoretical understanding, leaving open fundamental questions about when, why, and how modern learning systems work. My research aims to develop <span class="kw">statistical and information-theoretic foundations</span> that help answer these questions and guide the design of more efficient and reliable learning systems.
 
-Drawing on ideas from statistics, optimisation, and information theory, my recent and ongoing work explores three interconnected research directions:
+An important consideration in pursuing this goal is learning from <span class="kw">heterogeneous data</span>. Real-world data often varies across time, latent groups, and problem instances, challenging the stationarity and homogeneity assumptions underlying much of classical learning theory.
+
+With these questions and challenges in mind,  my recent and ongoing work draws on ideas from statistics, optimisation, and information theory to explore three interconnected research directions:
 
 <details class="box">
 <summary><span class="box-title">Understanding learning and generalisation</span></summary>
@@ -66,7 +68,7 @@ As machine learning (ML) systems, particularly <span class="kw">generative model
 </details>
 
 
-Much of my research is guided by a way of thinking rooted in information theory, the field of my [PhD study](https://www.repository.cam.ac.uk/items/81566d3e-5628-4936-a9d0-a23883808ef9): first understand and characterise the <span class="kw">fundamental performance limits</span> of a problem (i.e., what is achievable by any method), and then design <span class="kw">efficient methods to try to approach these limits</span>.
+Much of my research is guided by a way of thinking rooted in information theory, the field of my [PhD study](https://www.repository.cam.ac.uk/items/81566d3e-5628-4936-a9d0-a23883808ef9): first understand and characterise the <span class="kw">fundamental performance limits</span> of a problem (i.e., what is achievable by any method), and then try to design <span class="kw">efficient methods to  approach these limits</span>.
 
 
 ## Preprints & publications

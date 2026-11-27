@@ -2,7 +2,7 @@
 layout: default
 title: Teaching
 ---
-# Mentoring & Teaching
+# Teaching & Mentoring
 
 <img class="photo-float" src="assets/img/rome.jpg" alt="" width="354" height="442">
 
