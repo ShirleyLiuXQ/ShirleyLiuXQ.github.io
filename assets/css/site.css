@@ -80,7 +80,7 @@ h1, h2 { font-weight: 600; color: var(--ink); line-height: 1.2; }
 .mast-name { display: block; font-size: 1.3rem; font-weight: 600; line-height: 1.2; letter-spacing: -0.01em; color: var(--ink); }
 .mast-name:hover { color: var(--ink); }
 .mast-role { margin: .4rem 0 0; font-size: var(--fs-small); line-height: var(--lh-small); }
-.mast-cn { display: block; margin-top: .25rem; font-family: "LXGW WenKai", "Kaiti SC", "STKaiti", serif; font-weight: 400; font-size: 1.2rem; letter-spacing: .08em; }
+.mast-cn { display: block; margin-top: .25rem; font-family: "LXGW WenKai", "Kaiti SC", "STKaiti", serif; font-weight: 400; font-size: 1.2rem; }
 .cn { font-family: "LXGW WenKai", "Kaiti SC", "STKaiti", serif; font-weight: 400; font-size: 1.1em; }
 
 .mast-nav { display: flex; flex-direction: column; margin-top: 1.4rem; }
