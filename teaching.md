@@ -29,4 +29,4 @@ Theory and Coding  (3F7) and Data Transmission (3F4), 2019–2024
 
 - Project lead, Micro Distance International Youth Forum, 2019
 - Volunteer, Cambridge Hands-On Science, 2019
-- Volunteer maths teaching assistant in secondary schools, Cambridge STIMULUS programme, 2018
+-  Volunteer maths teaching assistant, weekly classes in secondary schools, Cambridge STIMULUS programme, 2018

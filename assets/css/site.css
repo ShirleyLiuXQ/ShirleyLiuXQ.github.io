@@ -20,17 +20,18 @@
   --red: #b42318;          /* keywords */
   --radius: 6px;
   /* Type scale: three text sizes, two line spacings */
-  --fs-body: 1.0625rem;   /* 17px: all reading text, inside and outside boxes */
-  --fs-small: .9375rem;   /* 15px: affiliation, author and venue lines */
+  --fs-body: .9375rem;    /* main reading text (same as sidebar role line) */
+  --fs-small: .9375rem;   /* affiliation, author and venue lines */
   --lh-body: 1.5;
   --lh-small: 1.45;
   --measure: 40rem;
-  --sidebar: 12.5rem;     /* sidebar column width; also the width of the photos on About, Teaching and Talks */
+  --sidebar: 12.5rem;     /* sidebar column width */
+  --photo: 10.5rem;       /* width of the photos on About and Teaching */
 }
 
 /* ---------- Base ---------- */
 *, *::before, *::after { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; }
+html { font-size: 90.625%; -webkit-text-size-adjust: 100%; } /* base size: scales every font, spacing and width on the site together (90.625% = 14.5px) */
 body {
   margin: 0;
   background: var(--paper);
@@ -50,6 +51,7 @@ a:focus-visible, summary:focus-visible { outline: 2px solid var(--petrol); outli
 .skip-link { position: absolute; left: -999px; top: 0; background: var(--petrol); color: #fff; padding: .5rem 1rem; }
 .skip-link:focus { left: 1rem; top: 1rem; }
 .kw { color: var(--red); }
+.hl { background: linear-gradient(transparent 56%, #efd9ef 56%, #efd9ef 92%, transparent 92%); padding: 0 .08em; } /* orchid highlighter for gentle emphasis */
 
 h1, h2 { font-weight: 600; color: var(--ink); line-height: 1.2; }
 .content h1 { font-size: 1.5rem; letter-spacing: -0.012em; margin: 0 0 .9rem; }
@@ -180,7 +182,8 @@ ul.venues li::before { content: "–"; color: var(--petrol); position: absolute;
 .upcoming { font-weight: 600; }
 
 /* ---------- Photos ---------- */
-.photo-float { float: right; width: var(--sidebar); aspect-ratio: 4 / 5; object-fit: cover; border-radius: var(--radius); margin: .3rem 0 .8rem 1.5rem; }
+.photo-float { float: right; width: var(--photo); aspect-ratio: 4 / 5; object-fit: cover; border-radius: var(--radius); margin: .3rem 0 .8rem 1.5rem; }
+.page-talks { --photo: 9rem; }  /* smaller talk photo */
 
 /* ---------- Narrow windows ---------- */
 @media (max-width: 860px) {
