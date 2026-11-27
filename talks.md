@@ -4,7 +4,7 @@ title: Talks
 ---
 # Talks
 
-I believe talks are an important way to communicate theoretical research. As AI makes technical material increasingly easy to produce and access, I think the  <span class="hl">human side of research</span> becomes even more valuable: sharing not just what we have discovered, but how we approach problems, the intuition behind mathematical results, and the reasoning that leads to them. To me, research is more about the  <span class="hl">journey of understanding</span> than it is about the final results.
+I believe talks are an important way to communicate theoretical research. As AI makes technical material increasingly easy to produce and access, I think the  <span class="hl">human side of research</span> becomes even more valuable: sharing not just what we have discovered, but how we approach problems, the intuition behind mathematical results, and the reasoning that leads to them. To me, research is more about the  journey of understanding  than it is about the final results.
 
 I therefore strive to make my talks as clear, visual, and accessible as possible, and to connect technical ideas to broader questions. My hope is that everyone in the audience, regardless of their familiarity with the topic, leaves with some new insight or perspective, however small.
 

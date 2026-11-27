@@ -6,11 +6,11 @@ title: Teaching
 
 <img class="photo-float" src="assets/img/rome.jpg" alt="" width="354" height="442">
 
-Throughout my academic journey, I have been fortunate to have met and learnt from many wonderful teachers, mentors, and peers. Their empathy, admirable work ethic, and genuine love for their work have profoundly influenced me. 
+Throughout my academic journey, I have been fortunate to have met and learnt from many wonderful teachers, mentors, and peers.  Their empathy, admirable work ethic, and genuine love for their work have profoundly influenced me. 
 
 By observing how they work, I learnt that good scientific practice requires honesty and precision in making claims, persistence in seeking simple and elegant solutions, and patience in understanding difficult problems deeply. Now as a mentor myself, I hope to pass on these values by helping younger researchers develop their own ways of thinking, build confidence, and grow intellectually.
 
-Over the past decade, I have been involved in a range of teaching, supervision and outreach activities, sharing my enthusiasm for probability, statistics, and information theory with my students.  I particularly focus on making complex ideas accessible without sacrificing rigour. In helping students develop intuition, I often gain new insights myself, which makes teaching especially rewarding.  I hope to make teaching and mentoring a lasting part of my career.
+Over the past decade, I have been involved in a range of teaching, supervision and outreach activities, sharing my enthusiasm for probability, statistics, and information theory with my students.  I particularly focus on making complex ideas accessible without sacrificing rigour. In helping students develop intuition, I often gain new insights myself, which makes teaching especially rewarding. <span class="hl">I hope to make teaching and mentoring a lasting part of my career.</span>
 
 ## Teaching
 
