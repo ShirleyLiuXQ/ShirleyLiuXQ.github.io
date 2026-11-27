@@ -8,7 +8,7 @@ title: A bit about me
 
 My first name, <span class="cn" lang="zh-Hans">晓琦</span> (Xiaoqi), is pronounced "Sh-ih-ow Chi" and means *jade born at dawn* in Chinese. Most people call me Shirley, and I publish as both Xiaoqi Liu and Shirley Xiaoqi Liu.
 
-I grew up in China, where my family moved between districts, cities, and provinces at almost every stage of my education. I later attended secondary school in Singapore before moving to the UK for university, my PhD, and now work. Living in different places has broadened my perspective and taught me to appreciate different ways of life, as well as different ways of thinking about and approaching research.
+I grew up in China, where my family moved between districts, cities, and provinces at almost every stage of my education. I later attended secondary school in Singapore before moving to the UK for university, PhD, and now work. Living in different places has broadened my perspective and taught me to appreciate different ways of life, as well as different ways of thinking about and approaching research.
 
 In every piece of work, I try to be precise about what a result establishes and equally clear about its limitations. I've also come to realise that clear thinking and clear communication reinforce each other, which I find as one of the most rewarding parts of research, so I put a lot of care into writing and structuring my papers and talks.
 
