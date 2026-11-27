@@ -1,64 +1,90 @@
-<h1 style="font-size:30px">Research</h1>
+---
+layout: default
+title: Research
+---
+# Research
 
+Empirical advances in machine learning continue to outpace our theoretical understanding, leaving open fundamental questions about when, why, and how modern learning systems work. My research aims to develop <span class="kw">statistical and information-theoretic foundations</span> that help answer these questions and guide the design of more efficient and reliable learning systems. A recurring theme of my work is learning from <span class="kw">heterogeneous data</span>: real-world data often varies across time, latent groups, and problem instances, challenging the stationarity and homogeneity assumptions underlying much of classical learning theory.
 
-Empirical advances in machine learning have outpaced our theoretical understanding, leaving open central questions about when, why, and how modern machine learning systems work. My research aims to develop <span style="color:darkred">statistical and information-theoretic foundations</span> for machine learning that help address these questions to inform systems design that are both efficient and reliable. A recurring theme of my research is learning with <span style="color:darkred">heterogeneous data</span> since real-world data varies across time, latent groups, and problem instances, violating the stationarity and homogeneity assumptions on which much of classical theory rests.
+Drawing on ideas from statistics, optimisation, and information theory, my recent and ongoing work explores three interconnected research directions:
 
-Drawing on statistics, optimisation, and information theory, my recent and ongoing work is organised around three inter-connected threads: 
-<details markdown="1">
-<summary><span style="font-size: 0.8em;">▶</span> <strong>Training dynamics of canonical statistical & machine learning models</strong> </summary>
-A key question in learning theory is how the model class and training procedure jointly determine the learned solution  and its generalisation properties. Current theory, both asymptotic and finite-sample,  extends primarily to  canonical models such as  least-squares regression, linear classification, and multi-index models (e.g., two-layer neural networks), since precise analyses are mathematically demanding  even in these cases. Nevertheless, such analyses  have *repeatedly* sharpened  our understanding of training heuristics and phenomena including   <span style="color:darkred">early stopping</span>, <span style="color:darkred">benign overfitting</span>, and <span style="color:darkred">feature learning</span>, and informed  more efficient design  of models and training procedures. Two of my ongoing projects contribute to this area.
+<details class="box">
+<summary><span class="box-title">Understanding learning and generalisation</span></summary>
+<div class="box-body" markdown="1">
+
+A central goal of learning theory is to understand how model structure, learning objectives, and training procedures jointly determine the learned solution and its generalisation properties. 
+
+Studying canonical models such as linear classifiers and two-layer neural networks allows us to characterise these relationships precisely and uncover the mechanisms underlying phenomena such as <span class="kw">early stopping</span>, <span class="kw">benign overfitting</span>, and <span class="kw">feature learning</span>. These insights help explain empirical observations and inform the design of more effective learning methods. Some of my recent works contribute to this direction:
+
+</div>
+<ul class="refs">
+<li><a href="https://arxiv.org/abs/2608.06250">Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification</a>, NeurIPS 2026 <a class="tag" href="Early_stopped_GD_45mins_10QA.pdf">slides</a></li>
+<li><a href="https://arxiv.org/abs/2611.30798">Precise Asymptotics of Non-Convex M-Estimators</a>, preprint, 2026</li>
+</ul>
 </details>
-<details markdown="1">
-<summary><span style="font-size: 0.8em;">▶</span> <strong>Sequential decision-making on heterogeneous data</strong></summary>
-Sequential decision-making arises  wherever actions must be taken one at a time, often with only <span style="color:darkred">partial information</span>. A doctor assigns a treatment and sees its effect, but never observes what the alternative treatments would have achieved. An inference pipeline escalates a query through increasingly costly models, deciding at each stage whether to answer or defer; whether the cheaper model would have sufficed is revealed only after paying for the costlier ones. What makes such problems hard is that the information needed to act optimally is *unavailable* at the time of action, so practical systems rely heavily on heuristics. My work develops procedures with provable optimality guarantees that can <span style="color:darkred">supersede heuristics</span>.
+
+<details class="box">
+<summary><span class="box-title">Sequential decision-making with heterogeneous data</span></summary>
+<div class="box-body" markdown="1">
+
+Sequential decision-making arises when actions must be chosen one at a time, often under <span class="kw">partial information</span>. For example:
+
+- a doctor observes the outcome of a prescribed treatment but not what alternative treatments would have achieved;
+- a language model cascade routes a query through increasingly costly models, deciding at each stage whether to answer or defer, without knowing in advance whether a cheaper model would suffice.
+
+Limited information, compounded by heterogeneity across samples, makes optimal decision-making challenging. My work addresses these difficulties by developing principled methods with <span class="kw">provable performance guarantees</span>:
+
+</div>
+<ul class="refs">
+<li><a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/5eaa54503005d9125ad6aa3044e912d8-Paper-Conference.pdf">Non-stationary Bandit Convex Optimization: A Comprehensive Study</a>, NeurIPS 2025 <a class="tag" href="CDT_bandits_talk(20mins).pdf">slides</a> <a class="tag" href="neurips_poster_bandits.pdf">poster</a></li>
+<li><a href="https://arxiv.org/abs/2610.39709">Bayes-Consistent Losses for Adaptive Inference in Classification</a>, preprint, 2026</li>
+</ul>
 </details>
-<details markdown="1">
-<summary><span style="font-size: 0.8em;">▶</span> <strong>Uncertainty quantification under weak  distributional assumptions</strong> </summary>
-Quantifying uncertainty is relatively straightforward when the model is well-specified and much harder otherwise. My ongoing research asks what can *still* be certified when the usual distributional assumptions are withdrawn. The main tools I use are <span style="color:darkred">e-values and e-processes</span>, <span style="color:darkred">conformal prediction</span>, and <span style="color:darkred">prediction-powered inference</span>, which together deliver inference that remains valid at arbitrary, data-dependent  sample sizes, under  minimal data distributional assumptions.
+
+<details class="box">
+<summary><span class="box-title">Uncertainty quantification under minimal assumptions</span></summary>
+<div class="box-body" markdown="1">
+
+As machine learning (ML) systems, particularly <span class="kw">generative models</span>, are increasingly deployed in high-stakes settings, quantifying uncertainty is essential for assessing their reliability. This line of work develops statistical methods that provide rigorous guarantees under weak or no distributional assumptions. I am particularly interested in three tools suited to different challenges:
+
+- <span class="kw">e-values</span>, a nascent alternative to p-values, for monitoring sequentially generated outputs, allowing evidence to accumulate over time while maintaining validity under flexible, data-dependent stopping rules;
+
+  - Bayes-Assisted Confidence Sequences for CDFs <a class="tag" href="SAVI_2026_poster.pdf">poster</a>
+  - Tutorials on sequential anytime-valid inference using e-values <a class="tag" href="Ramdas_Wang_ebook_chapter7-2.pdf">slides 1</a> <a class="tag" href="SAVI_tutorial_shirley.pdf">slides 2</a>
+  - Tutorial on tight confidence sequences from universal portfolio <a class="tag" href="Reading_group_talk_on_universal_portfolio.pdf">slides</a>
+  {: .refs}
+
+
+- <span class="kw">conformal prediction</span> for constructing prediction sets with finite-sample coverage, treating complex ML models as black boxes and making no assumptions about the form of the data distribution;
+
+- <span class="kw">prediction-powered inference (PPI)</span> for statistically  valid inference by using abundant ML-based predictions (e.g., AlphaFold-predicted  protein structures) in place of costly  gold-standard manually-obtained labels, while correcting for  their  prediction errors.
+
+  - <a href="https://arxiv.org/abs/2610.39709">Bayes-Consistent Losses for Adaptive Inference in Classification</a> (Section 4), preprint, 2026
+  {: .refs}
+
+</div>
 </details>
-\
-During my PhD, I focused on <span style="color:darkred">message passing algorithms</span> for high-dimensional statistical estimation and inference: a family of computationally efficient, iterative algorithms that provably achieve statistical optimality across a range of problems. I applied these to changepoint localisation, sketching sparse low-rank matrices, and reliable coding and decoding schemes for communication in large user networks.
- 
-## Interests:
-- **Training dynamics:** early stopping of gradient descent, benign overfitting, feature learning. 
-- **First-order optimisation methods:** gradient descent, approximate message passing
-- **Sequential decision-making:** bandits, online learning, adaptive inference
-- **Uncertainty quantification:** e-values, conformal prediction, prediction-powered inference
-- **Information theory, coding theory and communication systems**
 
-## Get in touch:
-I've come to realise that clear thinking and clear presentation reinforce each other, so I spend a lot of time structuring and crafting my papers and talks. Most papers below are accompanied with **talk slides**, which give a more visual and high-level explanation of the same technical ideas. If you have any feedback, or if anything is unclear, I’d love to hear from you. I’m always happy to discuss or explain further, and questions often help me see where clarity could be improved. :)
 
-## Selected preprints & publications:
+Much of my research is guided by a way of thinking rooted in information theory, the field of my [PhD study](https://www.repository.cam.ac.uk/items/81566d3e-5628-4936-a9d0-a23883808ef9): first understand and characterise the <span class="kw">fundamental performance limits</span> of a problem (i.e., what is achievable by any method), and then design <span class="kw">efficient methods to try to approach these limits</span>.
 
-1. A. Buna, **S.X. Liu**, P. Rebeschini, "[Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification](https://arxiv.org/abs/2608.06250)", accepted to *Proceedings of the 40th Annual Conference on Neural Information Processing Systems*, 2026. ([talk](Early_stopped_GD_45mins_10QA.pdf))
-2. **S.X. Liu**<sup style="font-size: 0.9em;">&#8727;</sup>, F. Regol<sup style="font-size: 0.9em;">&#8727;</sup>, A. Valkanas<sup style="font-size: 0.9em;">&#8727;</sup>, P. Rebeschini, M. Coates, "[Bayes-Consistent Losses for Adaptive Inference in Classification](https://arxiv.org/abs/2610.39709)", 2026.
-3. **X. Liu**, D. Baudry, J. Zimmert, P. Rebeschini, A. Akhavan, "[Non-stationary Bandit Convex Optimization: A Comprehensive Study](https://openreview.net/forum?id=1GCbcBJt83)", *Proceedings of the 39th Annual Conference on Neural Information Processing Systems*, 38, pp.65559-65599, 2025. ([talk](CDT_bandits_talk(20mins).pdf), [poster](neurips_poster_bandits.pdf))
-4. J. Allison<sup>&dagger;</sup>, P. Anderson<sup>&dagger;</sup>, ..., **X. Liu**<sup>&dagger;</sup>, ..., et al., "[Laser writing in glass for dense, fast and efficient archival data storage](https://www.nature.com/articles/s41586-025-10042-w)", *Nature*, 650, 606–612, 2026.
-5. **X. Liu**, P. Pascual Cobo and R. Venkataramanan, "[Many-user multiple access with random user activity: achievability bounds and efficient schemes](https://ieeexplore.ieee.org/document/11206438)", *IEEE Transactions on Information Theory*, vol. 72, no. 1, pp. 383-414, Jan. 2026, doi: 10.1109/TIT.2025.3622969. ([conference version](https://ieeexplore.ieee.org/abstract/document/10619669), [talk](RA_isit2024(17mins).pdf), [poster](ESIT_GMAC_poster_final.pdf))
-6. **X. Liu**, K. Hsieh and R. Venkataramanan, "[Coded many-user multiple access via Approximate Messsage Passing](https://arxiv.org/abs/2402.05625)", to appear in *Information Theory, Probability and Statistical Learning: A Festschrift in Honor of Andrew Barron*, 2025. ([conference version](https://ieeexplore.ieee.org/abstract/document/10619478), [talk](CDMA_isit2024(17mins).pdf))
-7. **X. Liu**, "[Message Passing Algorithms for Statistical Estimation and Communication](https://doi.org/10.17863/CAM.112616)", PhD thesis, Apollo-University of Cambridge Repository, 2024.
-8. G. Arpino, **X. Liu**, J. Gontarek and R. Venkataramanan, "[Inferring Change Points in High-Dimensional Regression via Approximate Message Passing](https://arxiv.org/abs/2404.07864)", *Journal of Machine Learning Research*, 26(225), pp.1-49, 2025.
-9. G. Arpino, **X. Liu** and R. Venkataramanan, "[Inferring Change Points in High-Dimensional Linear Regression via Approximate Message Passing](https://proceedings.mlr.press/v235/arpino24a.html)", *Proceedings of the 41st International Conference on Machine Learning*, PMLR 235:1841-1864, 2024. ([talk](changepoint_ICML_slides.pdf), [poster](changepoints_poster.pdf), [code](https://github.com/gabrielarpino/AMP_chgpt_lin_reg))
-10. **X. Liu** and R. Venkataramanan, "[Sketching Sparse Low-Rank Matrices With Near-Optimal Sample- and Time-Complexity Using Message Passing](https://ieeexplore.ieee.org/document/10120641)", *IEEE Transactions on Information Theory*, vol. 69, no. 9, pp. 6071-6097, Sept. 2023, doi: 10.1109/TIT.2023.3273181. ([conference version](https://ieeexplore.ieee.org/document/9834693)) 
 
-<sup style="font-size: 0.9em;">&#8727;</sup> Equal contribution. <sup>&dagger;</sup> Alphabetical order. 
+## Preprints & publications
 
-## Selected talks:
-<img src="evalues_talk.jpeg"  
-width="200" height=auto ALIGN="right"
-style="float: right; margin: 10px 0 10px 20px;"> 
-1. **Upcoming:** *Invited talk*, IMS International Conference on Statistics and Data Science (ICSDS), Split, Croatia, Dec 2026.
-2. "[Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification](Early_stopped_GD_45mins_10QA.pdf)", *Statistics Seminar*, School of Mathematics, University of Bristol, Oct 2026.
-3. "Bayes-Assisted Confidence Sequences for CDFs", *Safe Anytime-Valid Inference (SAVI) Conference*, University of Twente, Jul 2026.
-4. ["Mind the U Curve: Why We Stop Gradient Descent Early"](talk_on_early_stopped_GD(10mins).pdf), *Meet Our Group Seminar Series*, Department of Statistics, University of Oxford, May 2026.
-5. ["Learning Under Non-Stationarity: Statistical Inference & Bandit Convex Optimization"](warwick_stats_seminar_final.pdf), *Algorithms and Computationally Intensive Inference Seminar*, Department of Statistics, University of Warwick, Mar 2026.
-6. "[Tight Confidence Sequences From Universal Portfolio](Reading_group_talk_on_universal_portfolio.pdf)", *Hypothesis Testing with E-values Reading Group*, Department of Statistics, University of Oxford, Mar 2026.
-7. "[Non-Stationary Bandit Convex Optimization: Algorithms and Links to Coin Betting](CDT_bandits_talk(20mins).pdf)", *Algorithmic Statistics Workshop*, Department of Statistics, University of Oxford, Nov 2025.
-8. "[Tutorial on Sequential Anytime-Valid Inference Using E-processes](SAVI_tutorial_shirley.pdf)", *Statistics in AI CDT Module*, Department of Statistics, University of Oxford, Nov 2025.
-9. "[Sequential Anytime-Valid Inference Using E-processes](Ramdas_Wang_ebook_chapter7-2.pdf)", *Hypothesis Testing with E-values Reading Group*, Department of Statistics, University of Oxford, Oct 2025.)
-10. "[Loss landscapes and optimizaton in over-parameterized non-linear systems and neural networks](learning_theory_reading_group.pdf) ", *Learning Theory and Statistical Optimization Reading Group*, Department of Statistics, University of Oxford, Nov 2024.
-11. ["Communication over many-user channels via Approximate Message Passing"](IT_seminar_GMAC_220524_github.pdf), *Information Theory Seminar*, Department of Mathematics, University of Cambridge, May 2024.
+<ol class="pubs">
+<li><a class="pub-title" href="https://arxiv.org/abs/2611.30798">Precise Asymptotics of Non-Convex M-Estimators</a><span class="pub-meta"><b>S.X. Liu</b>, T. Adhikari, P. Pandit. Preprint, 2026.</span></li>
+<li><a class="pub-title" href="https://arxiv.org/abs/2608.06250">Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification</a><span class="pub-meta">A. Buna, <b>S.X. Liu</b>, P. Rebeschini. NeurIPS 2026. <a class="tag" href="talk_on_early_stopped_GD(10mins).pdf">slides</a></span></li>
+<li><a class="pub-title" href="https://arxiv.org/abs/2610.39709">Bayes-Consistent Losses for Adaptive Inference in Classification</a><span class="pub-meta"><b>S.X. Liu</b>*, F. Regol*, A. Valkanas*, P. Rebeschini, M. Coates. Preprint, 2026.</span></li>
+<li><a class="pub-title" href="https://www.nature.com/articles/s41586-025-10042-w">Laser Writing in Glass for Dense, Fast and Efficient Archival Data Storage</a><span class="pub-meta">J. Allison†, P. Anderson†, …, <b>X. Liu</b>†, … <i>Nature</i>, 2026.</span></li>
+<li><a class="pub-title" href="https://proceedings.neurips.cc/paper_files/paper/2025/file/5eaa54503005d9125ad6aa3044e912d8-Paper-Conference.pdf">Non-stationary Bandit Convex Optimization: A Comprehensive Study</a><span class="pub-meta"><b>X. Liu</b>, D. Baudry, J. Zimmert, P. Rebeschini, A. Akhavan. NeurIPS 2025. <a class="tag" href="CDT_bandits_talk(20mins).pdf">slides</a> <a class="tag" href="neurips_poster_bandits.pdf">poster</a></span></li>
+<li><a class="pub-title" href="https://ieeexplore.ieee.org/document/11206438">Many-User Multiple Access with Random User Activity: Achievability Bounds and Efficient Schemes</a><span class="pub-meta"><b>X. Liu</b>, P. Pascual Cobo, R. Venkataramanan. <i>IEEE Transactions on Information Theory</i>, 2025. <a class="tag" href="https://ieeexplore.ieee.org/abstract/document/10619669">conference version</a> <a class="tag" href="RA_isit2024(17mins).pdf">slides</a> <a class="tag" href="ESIT_GMAC_poster_final.pdf">poster</a></span></li>
+<li><a class="pub-title" href="https://arxiv.org/pdf/2402.05625">Coded Many-User Multiple Access via Approximate Message Passing</a><span class="pub-meta"><b>X. Liu</b>, K. Hsieh, R. Venkataramanan. <i>Festschrift in Honor of Andrew Barron</i>, 2025. <a class="tag" href="https://ieeexplore.ieee.org/abstract/document/10619478">conference version</a> <a class="tag" href="CDMA_isit2024(17mins).pdf">slides</a></span></li>
+<li><a class="pub-title" href="https://www.jmlr.org/papers/volume26/24-1789/24-1789.pdf">Inferring Change Points in High-Dimensional Regression via Approximate Message Passing</a><span class="pub-meta">G. Arpino, <b>X. Liu</b>, J. Gontarek, R. Venkataramanan. <i>JMLR</i>, 2025. <a class="tag" href="changepoint_ICML_slides.pdf">slides</a> <a class="tag" href="https://github.com/gabrielarpino/AMP_chgpt_lin_reg">code</a></span></li>
+<li><a class="pub-title" href="https://proceedings.mlr.press/v235/arpino24a.html">Inferring Change Points in High-Dimensional Linear Regression via Approximate Message Passing</a><span class="pub-meta">G. Arpino, <b>X. Liu</b>, R. Venkataramanan. ICML 2024. <a class="tag" href="changepoints_poster.pdf">poster</a></span></li>
+<li><a class="pub-title" href="https://ieeexplore.ieee.org/document/10120641">Sketching Sparse Low-Rank Matrices With Near-Optimal Sample- and Time-Complexity Using Message Passing</a><span class="pub-meta"><b>X. Liu</b>, R. Venkataramanan. <i>IEEE Transactions on Information Theory</i>, 2023. <a class="tag" href="https://ieeexplore.ieee.org/document/9834693">conference version</a></span></li>
+</ol>
 
-## Service:
-I review papers for several conferences and journals including the Conference on Neural Information Processing Systems (NeurIPS) (top reviewer 2024), International Conference on Machine Learning (ICML), Transactions on Machine Learning Research (TMLR), and International Symposium on Information Theory (ISIT).
+<p class="fine">* Equal contribution. † Alphabetical order.</p>
+
+## Service
+I routinely review papers for   conferences and journals including   NeurIPS (top reviewer 2024), ICML, ICLR, TMLR, ISIT, and ITW.

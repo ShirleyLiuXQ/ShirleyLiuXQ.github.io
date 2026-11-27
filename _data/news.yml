@@ -1,0 +1,40 @@
+# News items, newest first. To post an update, add a new entry at the TOP.
+# Formats (keep to one line where possible):
+#   Upcoming:  '<span class="upcoming">Upcoming</span> talk: Seminar Name, Institution'
+#   Talk:      "Talk on <topic>: Seminar Name, Institution ([slides](/file.pdf))"
+#   Poster:    "Poster on <topic>: Conference Name, Institution ([poster](/file.pdf))"
+#   Paper:     "New preprint: [Title](link)"  or  "Accepted at <Venue>: [Title](link)"
+#   date:  shown on the left, e.g. "Nov 2026"
+#   text:  Markdown links work
+# The homepage shows the first 6; the rest go under "Earlier news".
+# Entries marked CHECK DATE need a month.
+
+- date: "Feb 2027"
+  text: '<span class="upcoming">Upcoming</span> talk: Machine Learning Theory Seminar, University of Cambridge'
+
+- date: "Dec 2026"
+  text: '<span class="upcoming">Upcoming</span> talk: IMS International Conference on Statistics and Data Science (ICSDS), Croatia'
+
+- date: "Dec 2026"
+  text: '<span class="upcoming">Upcoming</span> poster: NeurIPS 2026, Paris'
+
+- date: "Dec 2026"
+  text: '<span class="upcoming">Upcoming</span> talk: Computational Statistics and Machine Learning Reading Group, Imperial College London'
+
+- date: "Nov 2026"
+  text: "New preprint: [Precise Asymptotics of Non-Convex M-Estimators](https://arxiv.org/abs/2611.30798)"
+
+- date: "Oct 2026"
+  text: "New preprint: [Bayes-Consistent Losses for Adaptive Inference in Classification](https://arxiv.org/abs/2610.39709)"
+
+- date: "Oct 2026"
+  text: "Talk on early stopping for classification: Statistics Seminar, University of Bristol ([slides](/Early_stopped_GD_45mins_10QA.pdf))"
+
+- date: "Sep 2026"
+  text: "New paper: [Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification](https://arxiv.org/abs/2608.06250), NeurIPS 2026"
+
+- date: "Jul 2026"
+  text: "Poster on confidence sequences for CDFs: Safe Anytime-Valid Inference (SAVI) Conference, University of Twente ([poster](/SAVI_2026_poster.pdf))"
+
+- date: "Mar 2026"
+  text: "Talk on learning under non-stationarity: Algorithms and Computationally Intensive Inference Seminar, University of Warwick ([slides](/warwick_stats_seminar_final.pdf))"

@@ -26,6 +26,37 @@ url: https://ShirleyLiuXQ.github.io  # the base hostname and protocol for your s
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  ShirleyLiuXQ
 
+# ---- Profile shown at the top of every page ----
+role: Postdoctoral Researcher
+affiliation: Department of Statistics, University of Oxford
+profile_photo: /assets/img/headshot.jpg
+# Email is assembled in the browser (keeps it away from spam scrapers).
+email_user: shirley.liu
+email_domain: stats.ox.ac.uk
+# Update this one line whenever you upload a new CV.
+cv_file: /CV_27_11_2026.pdf
+# Paste your Google Scholar profile URL here.
+scholar_url: https://scholar.google.com/citations?user=OFtk8oAAAAAJ&hl=en
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research
+  - title: Talks
+    url: /talks
+  - title: Teaching
+    url: /teaching
+  - title: A bit about me
+    url: /about
+
+# Used by search engines and link previews (LinkedIn, Slack, etc.)
+description: >-
+  Shirley Xiaoqi Liu, postdoctoral researcher in statistics and machine learning
+  theory at the University of Oxford.
+logo: /assets/img/headshot.jpg
+
 # Build settings
 theme: jekyll-theme-architect
 

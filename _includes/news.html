@@ -1,0 +1,19 @@
+{%- assign shown = site.news_shown | default: 6 -%}
+<section class="box news-box" aria-labelledby="news">
+<h2 class="box-title" id="news">News</h2>
+<ul class="news">
+{%- for item in site.data.news limit: shown %}
+<li><span class="news-date">{{ item.date }}</span><span class="news-text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span></li>
+{%- endfor %}
+</ul>
+{%- if site.data.news.size > shown %}
+<details class="news-more">
+<summary>Earlier news</summary>
+<ul class="news">
+{%- for item in site.data.news offset: shown %}
+<li><span class="news-date">{{ item.date }}</span><span class="news-text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span></li>
+{%- endfor %}
+</ul>
+</details>
+{%- endif %}
+</section>
